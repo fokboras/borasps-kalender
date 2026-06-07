@@ -1,0 +1,80 @@
+import requests
+from bs4 import BeautifulSoup
+from ics import Calendar, Event
+from datetime import datetime
+from urllib.parse import urljoin
+import re
+
+BASE = "https://borasps.se"
+YEAR = 2026
+MONTHS = range(1, 13)
+
+cal = Calendar()
+seen = set()
+
+months_sv = {
+    "januari": 1, "februari": 2, "mars": 3, "april": 4,
+    "maj": 5, "juni": 6, "juli": 7, "augusti": 8,
+    "september": 9, "oktober": 10, "november": 11, "december": 12
+}
+
+def parse_date(text):
+    m = re.search(
+        r"(\d{1,2})\s+([A-Za-zÅÄÖåäö]+)\s+(\d{4}),\s*(\d{2}:\d{2})\s*-\s*(\d{2}:\d{2})",
+        text
+    )
+    if not m:
+        return None, None
+
+    day, month_name, year, start_time, end_time = m.groups()
+    month = months_sv[month_name.lower()]
+
+    start = datetime.strptime(f"{year}-{month}-{day} {start_time}", "%Y-%m-%d %H:%M")
+    end = datetime.strptime(f"{year}-{month}-{day} {end_time}", "%Y-%m-%d %H:%M")
+    return start, end
+
+for month in MONTHS:
+    url = f"{BASE}/index.php/kalender/manadskalender/{YEAR}/{month}/-"
+    html = requests.get(url, timeout=20).text
+    soup = BeautifulSoup(html, "html.parser")
+
+    for a in soup.find_all("a", href=True):
+        href = a["href"]
+
+        if "/kalender/handelsedetaljer/" not in href:
+            continue
+
+        event_url = urljoin(BASE, href)
+
+        if event_url in seen:
+            continue
+
+        seen.add(event_url)
+
+        detail_html = requests.get(event_url, timeout=20).text
+        detail_soup = BeautifulSoup(detail_html, "html.parser")
+        detail_text = detail_soup.get_text("\n", strip=True)
+
+        start, end = parse_date(detail_text)
+
+        if not start or not end:
+            print("Missade datum:", event_url)
+            continue
+
+        title = a.get_text(" ", strip=True)
+        title = re.sub(r"^\d{2}:\d{2}\s*", "", title)
+        title = title.replace("...", "").strip()
+
+        event = Event()
+        event.name = title
+        event.begin = start
+        event.end = end
+        event.url = event_url
+        event.description = f"Källa: {event_url}"
+
+        cal.events.add(event)
+
+with open("borasps-kalender.ics", "w", encoding="utf-8") as f:
+    f.writelines(cal)
+
+print(f"Skapade {len(cal.events)} händelser.")
