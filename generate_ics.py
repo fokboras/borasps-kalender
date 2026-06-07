@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 from ics import Calendar, Event
 from datetime import datetime
 from urllib.parse import urljoin
+from zoneinfo import ZoneInfo
 import re
 
 BASE = "https://borasps.se"
@@ -29,8 +30,17 @@ def parse_date(text):
     day, month_name, year, start_time, end_time = m.groups()
     month = months_sv[month_name.lower()]
 
-    start = datetime.strptime(f"{year}-{month}-{day} {start_time}", "%Y-%m-%d %H:%M")
-    end = datetime.strptime(f"{year}-{month}-{day} {end_time}", "%Y-%m-%d %H:%M")
+    tz = ZoneInfo("Europe/Stockholm")
+
+start = datetime.strptime(
+    f"{year}-{month}-{day} {start_time}",
+    "%Y-%m-%d %H:%M"
+).replace(tzinfo=tz)
+
+end = datetime.strptime(
+    f"{year}-{month}-{day} {end_time}",
+    "%Y-%m-%d %H:%M"
+).replace(tzinfo=tz)
     return start, end
 
 for month in MONTHS:
