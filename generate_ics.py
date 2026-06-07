@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 from ics import Calendar, Event
-from datetime import datetime
+from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 from urllib.parse import urljoin
 import re
@@ -22,15 +22,27 @@ months_sv = {
 }
 
 def parse_date(text):
+    # Datum med start- och sluttid
     m = re.search(
         r"(\d{1,2})\s+([A-Za-zÅÄÖåäö]+)\s+(\d{4}),\s*(\d{2}:\d{2})\s*-\s*(\d{2}:\d{2})",
         text
     )
 
-    if not m:
-        return None, None
+    if m:
+        day, month_name, year, start_time, end_time = m.groups()
+    else:
+        # Datum med bara starttid
+        m = re.search(
+            r"(\d{1,2})\s+([A-Za-zÅÄÖåäö]+)\s+(\d{4}),\s*(\d{2}:\d{2})",
+            text
+        )
 
-    day, month_name, year, start_time, end_time = m.groups()
+        if not m:
+            return None, None
+
+        day, month_name, year, start_time = m.groups()
+        end_time = None
+
     month = months_sv.get(month_name.lower())
 
     if not month:
@@ -41,10 +53,13 @@ def parse_date(text):
         "%Y-%m-%d %H:%M"
     ).replace(tzinfo=TZ)
 
-    end = datetime.strptime(
-        f"{year}-{month}-{day} {end_time}",
-        "%Y-%m-%d %H:%M"
-    ).replace(tzinfo=TZ)
+    if end_time:
+        end = datetime.strptime(
+            f"{year}-{month}-{day} {end_time}",
+            "%Y-%m-%d %H:%M"
+        ).replace(tzinfo=TZ)
+    else:
+        end = start + timedelta(hours=2)
 
     return start, end
 
