@@ -5,6 +5,7 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 from urllib.parse import urljoin
 import re
+import hashlib
 
 BASE = "https://borasps.se"
 YEAR = 2026
@@ -62,11 +63,6 @@ for month in MONTHS:
 
         event_url = urljoin(BASE, href)
 
-        if event_url in seen:
-            continue
-
-        seen.add(event_url)
-
         detail_html = requests.get(event_url, timeout=20).text
         detail_soup = BeautifulSoup(detail_html, "html.parser")
         detail_text = detail_soup.get_text("\n", strip=True)
@@ -81,7 +77,15 @@ for month in MONTHS:
         title = re.sub(r"^\d{2}:\d{2}\s*", "", title)
         title = title.replace("...", "").strip()
 
+        unique_key = f"{event_url}|{title}|{start.isoformat()}|{end.isoformat()}"
+
+        if unique_key in seen:
+            continue
+
+        seen.add(unique_key)
+
         event = Event()
+        event.uid = hashlib.md5(unique_key.encode("utf-8")).hexdigest() + "@borasps-kalender"
         event.name = title
         event.begin = start
         event.end = end
