@@ -2,2059 +2,2059 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14353/-/nyboerjarkurs-fok
-DTEND:20261007T180000Z
-DTSTART:20261007T160000Z
-SUMMARY:Nybörjarkurs FO
-UID:ae8e2dc0-720e-4114-9a90-158b494a6f43@ae8e.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14353/-/nyboerjarkurs-fok
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14340/-/nyboerjarkurs-fok
-DTEND:20260708T180000Z
-DTSTART:20260708T160000Z
-SUMMARY:Nybörjarkurs FO
-UID:61fec0e6-9de8-45a3-b0f6-ae07d671d4ae@61fe.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14340/-/nyboerjarkurs-fok
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14263/-/fripistol
-DTEND:20260511T100000Z
-DTSTART:20260511T070000Z
-SUMMARY:Fripistol
-UID:45d2be19-4bda-4898-b678-e8de580f7423@45d2.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14263/-/fripistol
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8175/-/torsdagsskytte
-DTEND:20260122T110000Z
-DTSTART:20260122T080000Z
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8211/-/torsdagsskytte
+DTEND:20261001T100000Z
+DTSTART:20261001T070000Z
 SUMMARY:Torsdagsskytte
-UID:8e10aa37-39fa-4939-bb01-ed57d591ab61@8e10.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8175/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8703/-/antikrundan
-DTEND:20260304T120000Z
-DTSTART:20260304T090000Z
-SUMMARY:Antikrundan
-UID:712e0b2a-d08f-4001-8d09-f9533059f26c@712e.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8703/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14345/-/nyboerjarkurs-fok
-DTEND:20260812T180000Z
-DTSTART:20260812T160000Z
-SUMMARY:Nybörjarkurs FO
-UID:9e771993-23e5-4158-928b-cd98cee5ab1d@9e77.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14345/-/nyboerjarkurs-fok
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14292/-/svartkrut-pistol-gevaer
-DTEND:20260926T130000Z
-DTSTART:20260926T070000Z
-SUMMARY:Svartkrut Pisto
-UID:496e33ff-6389-4a45-8204-eeff401ace3e@496e.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14292/-/svartkrut-pistol-gevaer
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14237/-/ipsc-traening
-DTEND:20260805T180000Z
-DTSTART:20260805T160000Z
-SUMMARY:IPSC-träning
-UID:68b0863a-68e1-4481-92e9-469e5b144454@68b0.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14237/-/ipsc-traening
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14251/-/hemortens
-DTEND:20260524T110000Z
-DTSTART:20260524T070000Z
-SUMMARY:Hemortens
-UID:7d775bc0-94fb-4144-b0a3-9e84d9cadbd5@7d77.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14251/-/hemortens
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8737/-/antikrundan
-DTEND:20261028T120000Z
-DTSTART:20261028T090000Z
-SUMMARY:Antikrundan
-UID:d9417f7e-81e9-4590-8cda-66de9adf6ea7@d941.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8737/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14235/-/ipsc-traening
-DTEND:20260722T180000Z
-DTSTART:20260722T160000Z
-SUMMARY:IPSC-träning
-UID:2c43094b-6885-4e43-9bf0-854f2957fc81@2c43.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14235/-/ipsc-traening
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14244/-/ipsc-traening
-DTEND:20260923T180000Z
-DTSTART:20260923T160000Z
-SUMMARY:IPSC-träning
-UID:5b714ebb-97ae-4c2d-8b77-9ea48462a9ae@5b71.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14244/-/ipsc-traening
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14220/-/ipsc-traening
-DTEND:20260408T180000Z
-DTSTART:20260408T160000Z
-SUMMARY:IPSC-träning
-UID:57f1ac52-e83f-4edf-9c2a-601a149691c1@57f1.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14220/-/ipsc-traening
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14232/-/ipsc-traening
-DTEND:20260701T180000Z
-DTSTART:20260701T160000Z
-SUMMARY:IPSC-träning
-UID:a70d1f5e-8cd7-4695-b1ff-06ed9b7a69ab@a70d.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14232/-/ipsc-traening
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14247/-/hemortens
-DTEND:20260504T180000Z
-DTSTART:20260504T140000Z
-SUMMARY:Hemortens
-UID:a714c784-e430-4a9d-bd93-1694d62da554@a714.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14247/-/hemortens
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8188/-/torsdagsskytte
-DTEND:20260423T100000Z
-DTSTART:20260423T070000Z
-SUMMARY:Torsdagsskytte
-UID:167abac8-8c62-4337-a520-549ac7466373@167a.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8188/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8220/-/torsdagsskytte
-DTEND:20261203T110000Z
-DTSTART:20261203T080000Z
-SUMMARY:Torsdagsskytte
-UID:afa555e8-4185-433d-a6b9-06d1dac1106e@afa5.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8220/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8744/-/antikrundan
-DTEND:20261216T120000Z
-DTSTART:20261216T090000Z
-SUMMARY:Antikrundan
-UID:07b53903-e7f6-4a58-b7f2-6cfde347b546@07b5.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8744/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14209/-/50m-bokad
-DTEND:20260707T150000Z
-DTSTART:20260707T070000Z
-SUMMARY:50m bokad
-UID:1bd78b44-d219-4f63-b6b5-7deda0ae993d@1bd7.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14209/-/50m-bokad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8198/-/torsdagsskytte
-DTEND:20260702T100000Z
-DTSTART:20260702T070000Z
-SUMMARY:Torsdagsskytte
-UID:7cb40b2e-7397-45d3-86b5-61649adb2017@7cb4.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8198/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8701/-/antikrundan
-DTEND:20260218T120000Z
-DTSTART:20260218T090000Z
-SUMMARY:Antikrundan
-UID:bf983feb-66f3-4934-8b2d-a58c464f1c6c@bf98.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8701/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14327/-/nyboerjarkurs-bps
-DTEND:20261013T180000Z
-DTSTART:20261013T160000Z
-SUMMARY:Nybörjarkurs BP
-UID:06605b1c-4ba7-4e5f-8d64-c5e0676363ff@0660.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14327/-/nyboerjarkurs-bps
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14278/-/militaer-snabbmatch-krt
-DTEND:20260730T180000Z
-DTSTART:20260730T143000Z
-SUMMARY:Militär Snabbma
-UID:4a733174-ff51-4208-9182-8dd6285db4e8@4a73.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14278/-/militaer-snabbmatch-krt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8174/-/torsdagsskytte
-DTEND:20260115T110000Z
-DTSTART:20260115T080000Z
-SUMMARY:Torsdagsskytte
-UID:2df1a819-35d2-45ea-ac42-88295d8426ec@2df1.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8174/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8728/-/antikrundan
-DTEND:20260826T110000Z
-DTSTART:20260826T080000Z
-SUMMARY:Antikrundan
-UID:0991ce22-6ed8-462f-9dc0-2ea81742e695@0991.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8728/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8714/-/antikrundan
-DTEND:20260520T110000Z
-DTSTART:20260520T080000Z
-SUMMARY:Antikrundan
-UID:a6984a3d-7132-4c80-b192-21dbd0ed9de6@a698.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8714/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8735/-/antikrundan
-DTEND:20261014T110000Z
-DTSTART:20261014T080000Z
-SUMMARY:Antikrundan
-UID:212845bc-6245-491e-9de7-7fe634deb1d2@2128.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8735/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8219/-/torsdagsskytte
-DTEND:20261126T110000Z
-DTSTART:20261126T080000Z
-SUMMARY:Torsdagsskytte
-UID:16ff3a1d-109d-4521-b09d-2f1badc81b04@16ff.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8219/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8721/-/antikrundan
-DTEND:20260708T110000Z
-DTSTART:20260708T080000Z
-SUMMARY:Antikrundan
-UID:46ce9133-c2b5-41eb-a8ae-c5f89d6fad88@46ce.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8721/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8742/-/antikrundan
-DTEND:20261202T120000Z
-DTSTART:20261202T090000Z
-SUMMARY:Antikrundan
-UID:22e18fb3-ebad-49da-aa73-501a9c97c736@22e1.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8742/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14338/-/nyboerjarkurs-fok
-DTEND:20260624T180000Z
-DTSTART:20260624T160000Z
-SUMMARY:Nybörjarkurs FO
-UID:6015f246-3893-4ae1-8588-c8139203efba@6015.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14338/-/nyboerjarkurs-fok
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14224/-/ipsc-traening
-DTEND:20260506T180000Z
-DTSTART:20260506T160000Z
-SUMMARY:IPSC-träning
-UID:1ed6bf81-a0a9-453c-9830-f19ac50f85f8@1ed6.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14224/-/ipsc-traening
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8718/-/antikrundan
-DTEND:20260617T110000Z
-DTSTART:20260617T080000Z
-SUMMARY:Antikrundan
-UID:17e0ee06-a411-4d1c-9ab8-3a1468634b6f@17e0.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8718/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8187/-/torsdagsskytte
-DTEND:20260416T100000Z
-DTSTART:20260416T070000Z
-SUMMARY:Torsdagsskytte
-UID:156c66ae-6581-46a8-b1ca-f65e68608295@156c.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8187/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14330/-/nyboerjarkurs-fok
-DTEND:20260429T180000Z
-DTSTART:20260429T160000Z
-SUMMARY:Nybörjarkurs FO
-UID:e6e8e572-9c0a-4df4-a7bb-9e0e087d4d33@e6e8.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14330/-/nyboerjarkurs-fok
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14268/-/korthallsgevaer
-DTEND:20260523T110000Z
-DTSTART:20260523T090000Z
-SUMMARY:Korthållsgevär
-UID:bfbd5d6f-5521-4b8e-a587-ab3bf0b2cedd@bfbd.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14268/-/korthallsgevaer
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14227/-/ipsc-traening
-DTEND:20260527T180000Z
-DTSTART:20260527T160000Z
-SUMMARY:IPSC-träning
-UID:8f33c7d4-7464-4c9a-a15d-3f9ba5473e06@8f33.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14227/-/ipsc-traening
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8720/-/antikrundan
-DTEND:20260701T110000Z
-DTSTART:20260701T080000Z
-SUMMARY:Antikrundan
-UID:2d444c8d-3de3-475e-a610-1bc1f532705c@2d44.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8720/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14323/-/nyboerjarkurs-bps
-DTEND:20260915T180000Z
-DTSTART:20260915T160000Z
-SUMMARY:Nybörjarkurs BP
-UID:c0977efc-8330-4ef9-a9db-bb2fd9972615@c097.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14323/-/nyboerjarkurs-bps
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8223/-/torsdagsskytte
-DTEND:20261224T110000Z
-DTSTART:20261224T080000Z
-SUMMARY:Torsdagsskytte
-UID:69d69f04-7ae1-41ec-a8cc-efcedd9ca424@69d6.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8223/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8704/-/antikrundan
-DTEND:20260311T120000Z
-DTSTART:20260311T090000Z
-SUMMARY:Antikrundan
-UID:cf8f09ab-99a1-418e-9799-ce012a10119f@cf8f.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8704/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14266/-/fripistol
-DTEND:20260516T100000Z
-DTSTART:20260516T070000Z
-SUMMARY:Fripistol
-UID:0622e6e4-81f0-465c-9afc-3db404dee2df@0622.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14266/-/fripistol
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8725/-/antikrundan
-DTEND:20260805T110000Z
-DTSTART:20260805T080000Z
-SUMMARY:Antikrundan
-UID:176e029c-e950-4b21-92d9-8f8e96ed2658@176e.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8725/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8214/-/torsdagsskytte
-DTEND:20261022T100000Z
-DTSTART:20261022T070000Z
-SUMMARY:Torsdagsskytte
-UID:44d3bf7a-0195-4876-9465-15de7a80d683@44d3.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8214/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14321/-/nyboerjarkurs-bps
-DTEND:20260901T180000Z
-DTSTART:20260901T160000Z
-SUMMARY:Nybörjarkurs BP
-UID:761b3d28-6758-4d85-b0f7-d2e27e467be4@761b.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14321/-/nyboerjarkurs-bps
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14303/-/nyboerjarkurs-bps
-DTEND:20260428T180000Z
-DTSTART:20260428T160000Z
-SUMMARY:Nybörjarkurs BP
-UID:1f63764e-89ed-4044-ad33-6064a6eb963a@1f63.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14303/-/nyboerjarkurs-bps
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8184/-/torsdagsskytte
-DTEND:20260326T110000Z
-DTSTART:20260326T080000Z
-SUMMARY:Torsdagsskytte
-UID:52fd98eb-417f-41c1-a6da-a6623fca1c6f@52fd.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8184/-/torsdagsskytte
+UID:4ac13cc5-5175-4c42-ad0f-63dbcf012085@4ac1.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8211/-/torsdagsskytte
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8215/-/torsdagsskytte
 DTEND:20261029T110000Z
 DTSTART:20261029T080000Z
 SUMMARY:Torsdagsskytte
-UID:1c905505-f32f-4d13-abfc-2ee90fdec524@1c90.org
+UID:b68444d4-1948-4e40-8cda-1daeb64db459@b684.org
 URL:https://borasps.se/index.php/kalender/handelsedetaljer/8215/-/torsdagsskytte
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8181/-/torsdagsskytte
-DTEND:20260305T110000Z
-DTSTART:20260305T080000Z
-SUMMARY:Torsdagsskytte
-UID:e720f44f-7239-40fd-bf3b-30c6be45839f@e720.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8181/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8736/-/antikrundan
-DTEND:20261021T110000Z
-DTSTART:20261021T080000Z
-SUMMARY:Antikrundan
-UID:78ec0612-5b4d-48d8-a80f-6f6088c215cd@78ec.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8736/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8705/-/antikrundan
-DTEND:20260318T120000Z
-DTSTART:20260318T090000Z
-SUMMARY:Antikrundan
-UID:14b62a22-95ad-4f36-a8b6-2ca5dade15b3@14b6.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8705/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8739/-/antikrundan
-DTEND:20261111T120000Z
-DTSTART:20261111T090000Z
-SUMMARY:Antikrundan
-UID:f7112a97-13ad-4ec6-96a7-9c15342ccc1b@f711.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8739/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14257/-/hj-krt
-DTEND:20260420T180000Z
-DTSTART:20260420T160000Z
-SUMMARY:HJ KrT
-UID:8ce56a35-7864-4751-92d6-75c15b1af859@8ce5.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14257/-/hj-krt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14346/-/nyboerjarkurs-fok
-DTEND:20260819T180000Z
-DTSTART:20260819T160000Z
-SUMMARY:Nybörjarkurs FO
-UID:cbf4a39d-9d4c-425c-aac5-5f00df34adc5@cbf4.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14346/-/nyboerjarkurs-fok
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8194/-/torsdagsskytte
-DTEND:20260604T100000Z
-DTSTART:20260604T070000Z
-SUMMARY:Torsdagsskytte
-UID:69c3729e-e2c6-437d-8b87-b5cf8e5af82e@69c3.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8194/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8700/-/antikrundan
-DTEND:20260211T120000Z
-DTSTART:20260211T090000Z
-SUMMARY:Antikrundan
-UID:f27b5764-673c-4298-847d-f0c21305514b@f27b.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8700/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14347/-/nyboerjarkurs-fok
-DTEND:20260826T180000Z
-DTSTART:20260826T160000Z
-SUMMARY:Nybörjarkurs FO
-UID:98bfd2ec-a0b5-468c-a00c-4b00b5ad1710@98bf.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14347/-/nyboerjarkurs-fok
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14337/-/nyboerjarkurs-fok
-DTEND:20260617T180000Z
-DTSTART:20260617T160000Z
-SUMMARY:Nybörjarkurs FO
-UID:d5a99bd1-3305-478a-a725-edf09abd7e65@d5a9.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14337/-/nyboerjarkurs-fok
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8732/-/antikrundan
-DTEND:20260923T110000Z
-DTSTART:20260923T080000Z
-SUMMARY:Antikrundan
-UID:0973131d-3de2-42fb-8073-e2c233cd41ff@0973.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8732/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14270/-/magnumprecision-krt
-DTEND:20260530T130000Z
-DTSTART:20260530T070000Z
-SUMMARY:Magnumprecision
-UID:7c582f7a-7535-4ec7-ad00-cc9b3f37ac40@7c58.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14270/-/magnumprecision-krt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8179/-/torsdagsskytte
-DTEND:20260219T110000Z
-DTSTART:20260219T080000Z
-SUMMARY:Torsdagsskytte
-UID:76e50469-cb84-49c7-86b6-696defc70946@76e5.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8179/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14326/-/nyboerjarkurs-bps
-DTEND:20261006T180000Z
-DTSTART:20261006T160000Z
-SUMMARY:Nybörjarkurs BP
-UID:f52c43f6-2a3b-485d-9c66-cf2951765608@f52c.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14326/-/nyboerjarkurs-bps
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14361/-/sm-traening-magnum
-DTEND:20260525T130000Z
-DTSTART:20260525T070000Z
-SUMMARY:SM-träning Magn
-UID:79e23fdc-5396-4bc2-812e-10df497ed476@79e2.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14361/-/sm-traening-magnum
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14213/-/50m-bokad
-DTEND:20260714T150000Z
-DTSTART:20260714T070000Z
-SUMMARY:50m bokad
-UID:f9aca45f-0f5b-471a-b1a5-36d018882a87@f9ac.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14213/-/50m-bokad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14341/-/nyboerjarkurs-fok
-DTEND:20260715T180000Z
-DTSTART:20260715T160000Z
-SUMMARY:Nybörjarkurs FO
-UID:b92706d6-d835-4321-a351-98fe3da82e8f@b927.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14341/-/nyboerjarkurs-fok
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8222/-/torsdagsskytte
-DTEND:20261217T110000Z
-DTSTART:20261217T080000Z
-SUMMARY:Torsdagsskytte
-UID:6b1851af-0e66-49c1-b8e8-6586001d35ea@6b18.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8222/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14348/-/nyboerjarkurs-fok
-DTEND:20260902T180000Z
-DTSTART:20260902T160000Z
-SUMMARY:Nybörjarkurs FO
-UID:3dad1627-6a78-4c18-a920-0136dcbe1441@3dad.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14348/-/nyboerjarkurs-fok
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14322/-/nyboerjarkurs-bps
-DTEND:20260908T180000Z
-DTSTART:20260908T160000Z
-SUMMARY:Nybörjarkurs BP
-UID:eeb702c3-4448-4c9d-908d-7cc5903071f0@eeb7.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14322/-/nyboerjarkurs-bps
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14217/-/grundkurs-ipsc
-DTEND:20260412T150000Z
-DTSTART:20260412T070000Z
-SUMMARY:Grundkurs IPSC
-UID:31234a35-d09c-4ff0-b94c-06d4e7a37fa3@3123.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14217/-/grundkurs-ipsc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14334/-/nyboerjarkurs-fok
-DTEND:20260527T180000Z
-DTSTART:20260527T160000Z
-SUMMARY:Nybörjarkurs FO
-UID:ee472450-024e-4dbe-97b3-790ee56b5a5f@ee47.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14334/-/nyboerjarkurs-fok
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14248/-/hemortens
-DTEND:20260508T160000Z
-DTSTART:20260508T130000Z
-SUMMARY:Hemortens
-UID:fc06c29a-0d16-4c11-a6b5-1bd9b529ec49@fc06.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14248/-/hemortens
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14262/-/hj-krt
-DTEND:20260511T180000Z
-DTSTART:20260511T160000Z
-SUMMARY:HJ KrT
-UID:13096dc5-d7af-4db4-a2b0-a7948fa8a497@1309.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14262/-/hj-krt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8710/-/antikrundan
-DTEND:20260422T110000Z
-DTSTART:20260422T080000Z
-SUMMARY:Antikrundan
-UID:f5e0c01e-3ada-4533-919d-1b43b38a2194@f5e0.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8710/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14221/-/ipsc-traening
-DTEND:20260415T180000Z
-DTSTART:20260415T160000Z
-SUMMARY:IPSC-träning
-UID:171b27c0-bb10-4d99-9c4b-1fd304650bbd@171b.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14221/-/ipsc-traening
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8195/-/torsdagsskytte
-DTEND:20260611T100000Z
-DTSTART:20260611T070000Z
-SUMMARY:Torsdagsskytte
-UID:71945f20-c723-429b-9623-9673c230f970@7194.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8195/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14261/-/militaer-snabbmatch-krt
-DTEND:20260430T180000Z
-DTSTART:20260430T143000Z
-SUMMARY:Militär Snabbma
-UID:5c4dc3d5-919a-4506-8f34-199907ff7039@5c4d.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14261/-/militaer-snabbmatch-krt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14365/-/magnumtraening
-DTEND:20260621T110000Z
-DTSTART:20260621T070000Z
-SUMMARY:Magnumträning
-UID:d28050c7-d1ae-40cd-ad27-4734d6b5a2fa@d280.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14365/-/magnumtraening
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14236/-/ipsc-traening
-DTEND:20260729T180000Z
-DTSTART:20260729T160000Z
-SUMMARY:IPSC-träning
-UID:e14d7685-97b5-4eed-a00b-d2e8ddae193f@e14d.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14236/-/ipsc-traening
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14350/-/nyboerjarkurs-fok
-DTEND:20260916T180000Z
-DTSTART:20260916T160000Z
-SUMMARY:Nybörjarkurs FO
-UID:1252e824-b80c-4d10-90c6-01b5261a1e54@1252.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14350/-/nyboerjarkurs-fok
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14325/-/nyboerjarkurs-bps
-DTEND:20260929T180000Z
-DTSTART:20260929T160000Z
-SUMMARY:Nybörjarkurs BP
-UID:313d953a-d02b-4c3c-b51f-706ed2508e23@313d.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14325/-/nyboerjarkurs-bps
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14215/-/grundkurs-ipsc
-DTEND:20260410T150000Z
-DTSTART:20260410T070000Z
-SUMMARY:Grundkurs IPSC
-UID:261b3df5-339f-4f1f-9be0-bf2c477e5443@261b.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14215/-/grundkurs-ipsc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14317/-/nyboerjarkurs-bps
-DTEND:20260804T180000Z
-DTSTART:20260804T160000Z
-SUMMARY:Nybörjarkurs BP
-UID:fb9b8bf7-cb5e-4e0b-bf92-1ce52b97debe@fb9b.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14317/-/nyboerjarkurs-bps
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14333/-/nyboerjarkurs-fok
-DTEND:20260520T180000Z
-DTSTART:20260520T160000Z
-SUMMARY:Nybörjarkurs FO
-UID:07bfe6f5-030d-41ff-809c-ed9b2a7de9a4@07bf.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14333/-/nyboerjarkurs-fok
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8200/-/torsdagsskytte
-DTEND:20260716T100000Z
-DTSTART:20260716T070000Z
-SUMMARY:Torsdagsskytte
-UID:498fd32d-e0e2-41e5-b40d-66723c9b3083@498f.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8200/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8708/-/antikrundan
-DTEND:20260408T110000Z
-DTSTART:20260408T080000Z
-SUMMARY:Antikrundan
-UID:d8fd68bb-8b65-48b1-815e-d46c084e6a88@d8fd.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8708/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14358/-/staeddag
-DTEND:20260531T130000Z
-DTSTART:20260531T070000Z
-SUMMARY:Städdag
-UID:6d62dbcf-6c23-4c2d-bdff-6eac3e17659c@6d62.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14358/-/staeddag
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14219/-/ipsc-traening
-DTEND:20260401T180000Z
-DTSTART:20260401T160000Z
-SUMMARY:IPSC-träning
-UID:19934d4c-5629-421e-8a5a-d4fb6807e970@1993.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14219/-/ipsc-traening
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14211/-/50m-bokad
-DTEND:20260709T150000Z
-DTSTART:20260709T070000Z
-SUMMARY:50m bokad
-UID:50a1cf6d-6a6d-48a8-8456-71022962d263@50a1.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14211/-/50m-bokad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14305/-/nyboerjarkurs-bps
-DTEND:20260512T180000Z
-DTSTART:20260512T160000Z
-SUMMARY:Nybörjarkurs BP
-UID:f595be90-42b5-4116-9ea6-618bffcfe64b@f595.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14305/-/nyboerjarkurs-bps
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8199/-/torsdagsskytte
-DTEND:20260709T100000Z
-DTSTART:20260709T070000Z
-SUMMARY:Torsdagsskytte
-UID:fb01d307-fa56-4918-9c85-23e08d050039@fb01.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8199/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14349/-/nyboerjarkurs-fok
-DTEND:20260909T180000Z
-DTSTART:20260909T160000Z
-SUMMARY:Nybörjarkurs FO
-UID:9a570672-5fbb-4963-b4d3-850b876858bb@9a57.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14349/-/nyboerjarkurs-fok
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8224/-/torsdagsskytte
-DTEND:20261231T110000Z
-DTSTART:20261231T080000Z
-SUMMARY:Torsdagsskytte
-UID:36b94114-b432-4fb3-bb77-5e0ef1440230@36b9.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8224/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8716/-/antikrundan
-DTEND:20260603T110000Z
-DTSTART:20260603T080000Z
-SUMMARY:Antikrundan
-UID:7f8e5d6d-c0ea-480f-8cf4-5e22eb974c16@7f8e.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8716/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14294/-/50m-bokad
-DTEND:20260420T140000Z
-DTSTART:20260420T120000Z
-SUMMARY:50m bokad
-UID:cf262bc5-1dc5-4c6c-94d0-28d6d1cd7e73@cf26.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14294/-/50m-bokad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8730/-/antikrundan
-DTEND:20260909T110000Z
-DTSTART:20260909T080000Z
-SUMMARY:Antikrundan
-UID:73f2f4ed-68e4-46f9-8694-0f2bc2cc87b1@73f2.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8730/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14293/-/faelt-krt
-DTEND:20260503T140000Z
-DTSTART:20260503T070000Z
-SUMMARY:Fält KrT
-UID:9bc860af-35bf-45a2-98a0-eafb06774733@9bc8.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14293/-/faelt-krt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14354/-/nyboerjarkurs-fok
-DTEND:20261014T180000Z
-DTSTART:20261014T160000Z
-SUMMARY:Nybörjarkurs FO
-UID:c0a8c3f1-138d-4638-b558-4c6007ffcc77@c0a8.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14354/-/nyboerjarkurs-fok
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14223/-/ipsc-traening
-DTEND:20260429T180000Z
-DTSTART:20260429T160000Z
-SUMMARY:IPSC-träning
-UID:e95d3414-e0ed-4950-bd58-f78199e59120@e95d.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14223/-/ipsc-traening
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14367/-/hemortens
-DTEND:20260528T180000Z
-DTSTART:20260528T143000Z
-SUMMARY:Hemortens
-UID:84992435-e32f-436d-bd01-6cab2c8bdfa1@8499.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14367/-/hemortens
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14234/-/ipsc-traening
-DTEND:20260715T180000Z
-DTSTART:20260715T160000Z
-SUMMARY:IPSC-träning
-UID:83b7d144-9b42-4bce-9f66-5491dea80b9a@83b7.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14234/-/ipsc-traening
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14315/-/nyboerjarkurs-bps
-DTEND:20260721T180000Z
-DTSTART:20260721T160000Z
-SUMMARY:Nybörjarkurs BP
-UID:a244b770-e08a-4bdb-a8b1-0761b685a52b@a244.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14315/-/nyboerjarkurs-bps
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14272/-/militaer-snabbmatch-krt
-DTEND:20260604T180000Z
-DTSTART:20260604T143000Z
-SUMMARY:Militär Snabbma
-UID:887cb64c-67cd-4668-99be-8312c35330a0@887c.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14272/-/militaer-snabbmatch-krt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8205/-/torsdagsskytte
-DTEND:20260820T100000Z
-DTSTART:20260820T070000Z
-SUMMARY:Torsdagsskytte
-UID:f245d872-a64c-4ecf-84cf-16756a19536a@f245.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8205/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8706/-/antikrundan
-DTEND:20260325T120000Z
-DTSTART:20260325T090000Z
-SUMMARY:Antikrundan
-UID:d9b3e380-a4bb-4844-b9d1-2133f7e3e80b@d9b3.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8706/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14291/-/precision-krt
-DTEND:20260921T180000Z
-DTSTART:20260921T143000Z
-SUMMARY:Precision KrT
-UID:89d47c83-d085-44a5-aab6-7bf901e8812b@89d4.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14291/-/precision-krt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8211/-/torsdagsskytte
-DTEND:20261001T100000Z
-DTSTART:20261001T070000Z
-SUMMARY:Torsdagsskytte
-UID:3e10219a-ef74-4c9a-b420-e15d1aba55ff@3e10.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8211/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8696/-/antikrundan
-DTEND:20260114T120000Z
-DTSTART:20260114T090000Z
-SUMMARY:Antikrundan
-UID:7019c6a1-fa0f-4b1c-bdf3-b98bca781ada@7019.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8696/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14249/-/hemortens
-DTEND:20260518T180000Z
-DTSTART:20260518T143000Z
-SUMMARY:Hemortens
-UID:a59ef3b1-be28-4089-aa71-43017dcbfd9d@a59e.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14249/-/hemortens
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14279/-/magnumprecision-krt
-DTEND:20260802T130000Z
-DTSTART:20260802T070000Z
-SUMMARY:Magnumprecision
-UID:7b69314b-1442-4a44-a885-3e9fc0ed894a@7b69.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14279/-/magnumprecision-krt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14252/-/hemortens
-DTEND:20260605T160000Z
-DTSTART:20260605T130000Z
-SUMMARY:Hemortens
-UID:ffbd9509-20b0-4cb7-9e27-608ae43f6317@ffbd.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14252/-/hemortens
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14316/-/nyboerjarkurs-bps
-DTEND:20260728T180000Z
-DTSTART:20260728T160000Z
-SUMMARY:Nybörjarkurs BP
-UID:8ad99c2b-2b6b-4d24-a757-91c544f1b4f2@8ad9.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14316/-/nyboerjarkurs-bps
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8176/-/torsdagsskytte
-DTEND:20260129T110000Z
-DTSTART:20260129T080000Z
-SUMMARY:Torsdagsskytte
-UID:cece0c9a-68bf-431f-b825-ad7cbc019ad3@cece.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8176/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14241/-/ipsc-traening
-DTEND:20260902T180000Z
-DTSTART:20260902T160000Z
-SUMMARY:IPSC-träning
-UID:e1649aa2-a7cb-4aa9-8e6d-f92df457f03a@e164.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14241/-/ipsc-traening
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14359/-/sm-traening-magnum
-DTEND:20260522T130000Z
-DTSTART:20260522T070000Z
-SUMMARY:SM-träning Magn
-UID:24e146da-83c5-49ac-9dad-c2f365e1f008@24e1.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14359/-/sm-traening-magnum
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8190/-/torsdagsskytte
-DTEND:20260507T100000Z
-DTSTART:20260507T070000Z
-SUMMARY:Torsdagsskytte
-UID:187e8ccd-f430-43d5-89e0-0f8c3cc8d0b5@187e.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8190/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8207/-/torsdagsskytte
-DTEND:20260903T100000Z
-DTSTART:20260903T070000Z
-SUMMARY:Torsdagsskytte
-UID:8eca31c6-848b-4381-9d71-f9ff765924b9@8eca.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8207/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14304/-/nyboerjarkurs-bps
-DTEND:20260505T180000Z
-DTSTART:20260505T160000Z
-SUMMARY:Nybörjarkurs BP
-UID:8042c8e4-9e3d-4424-b229-fe8627386ff6@8042.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14304/-/nyboerjarkurs-bps
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14310/-/nyboerjarkurs-bps
-DTEND:20260616T180000Z
-DTSTART:20260616T160000Z
-SUMMARY:Nybörjarkurs BP
-UID:f4616b38-ec4a-4f59-a33e-ed0bd21c2a97@f461.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14310/-/nyboerjarkurs-bps
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14314/-/nyboerjarkurs-bps
-DTEND:20260714T180000Z
-DTSTART:20260714T160000Z
-SUMMARY:Nybörjarkurs BP
-UID:9d083a33-a7c9-49c1-b8f3-f4308fd777fa@9d08.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14314/-/nyboerjarkurs-bps
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14283/-/militaer-snabbmatch-krt
-DTEND:20260820T180000Z
-DTSTART:20260820T143000Z
-SUMMARY:Militär Snabbma
-UID:41c5e256-a2b4-4349-b49a-4afd23a4241a@41c5.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14283/-/militaer-snabbmatch-krt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8745/-/antikrundan
-DTEND:20261223T120000Z
-DTSTART:20261223T090000Z
-SUMMARY:Antikrundan
-UID:f31afce3-0c46-48ab-9253-c8652a8c71e5@f31a.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8745/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8203/-/torsdagsskytte
-DTEND:20260806T100000Z
-DTSTART:20260806T070000Z
-SUMMARY:Torsdagsskytte
-UID:136d42bc-6cb7-4d9e-a61e-bbb92dd742c7@136d.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8203/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8715/-/antikrundan
-DTEND:20260527T110000Z
-DTSTART:20260527T080000Z
-SUMMARY:Antikrundan
-UID:136e0995-aa71-43eb-aa9e-712b90b2afda@136e.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8715/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14284/-/standardpistol
-DTEND:20260827T180000Z
-DTSTART:20260827T143000Z
-SUMMARY:Standardpistol
-UID:d2ca5cea-686c-44a1-ac37-2d6cf70a1cb5@d2ca.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14284/-/standardpistol
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8213/-/torsdagsskytte
-DTEND:20261015T100000Z
-DTSTART:20261015T070000Z
-SUMMARY:Torsdagsskytte
-UID:628395d9-67f6-49db-8404-472557c4865f@6283.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8213/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14309/-/nyboerjarkurs-bps
-DTEND:20260609T180000Z
-DTSTART:20260609T160000Z
-SUMMARY:Nybörjarkurs BP
-UID:4700a9b4-59e7-46bb-b440-c926fca43486@4700.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14309/-/nyboerjarkurs-bps
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14264/-/standardpistol
-DTEND:20260521T180000Z
-DTSTART:20260521T143000Z
-SUMMARY:Standardpistol
-UID:1e625f76-c34f-46a1-ab63-8a81c9b6548a@1e62.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14264/-/standardpistol
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14342/-/nyboerjarkurs-fok
-DTEND:20260722T180000Z
-DTSTART:20260722T160000Z
-SUMMARY:Nybörjarkurs FO
-UID:898682f7-ba34-48b0-97fb-882db901b958@8986.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14342/-/nyboerjarkurs-fok
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14245/-/ipsc-traening
-DTEND:20260930T180000Z
-DTSTART:20260930T160000Z
-SUMMARY:IPSC-träning
-UID:fe308233-967f-4817-aa00-973acd3e5e97@fe30.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14245/-/ipsc-traening
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14253/-/banlaeggarutbildning-faelt
-DTEND:20260426T130000Z
-DTSTART:20260426T070000Z
-SUMMARY:Banläggarutbild
-UID:9d4e5d9a-57ef-4c0f-81b7-7b0ca098e386@9d4e.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14253/-/banlaeggarutbildning-faelt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8196/-/torsdagsskytte
-DTEND:20260618T100000Z
-DTSTART:20260618T070000Z
-SUMMARY:Torsdagsskytte
-UID:b1942504-419d-43d8-a8cd-99bbae4b9993@b194.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8196/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14351/-/nyboerjarkurs-fok
-DTEND:20260923T180000Z
-DTSTART:20260923T160000Z
-SUMMARY:Nybörjarkurs FO
-UID:d36520c7-d1bc-476e-af6e-ef2330df7b77@d365.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14351/-/nyboerjarkurs-fok
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8178/-/torsdagsskytte
-DTEND:20260212T110000Z
-DTSTART:20260212T080000Z
-SUMMARY:Torsdagsskytte
-UID:068a417b-0a15-4bab-9a46-fb006f17e73e@068a.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8178/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8180/-/torsdagsskytte
-DTEND:20260226T110000Z
-DTSTART:20260226T080000Z
-SUMMARY:Torsdagsskytte
-UID:bdbd0b9c-768d-45fc-9bf6-baa01fc04b77@bdbd.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8180/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8709/-/antikrundan
-DTEND:20260415T110000Z
-DTSTART:20260415T080000Z
-SUMMARY:Antikrundan
-UID:09189a94-5d8c-476f-a727-57e8af5092de@0918.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8709/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14222/-/ipsc-traening
-DTEND:20260422T180000Z
-DTSTART:20260422T160000Z
-SUMMARY:IPSC-träning
-UID:b5bb9637-0463-4c81-aae7-e93358fd12e3@b5bb.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14222/-/ipsc-traening
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14343/-/nyboerjarkurs-fok
-DTEND:20260729T180000Z
-DTSTART:20260729T160000Z
-SUMMARY:Nybörjarkurs FO
-UID:25b8c9fd-8ee0-4ee8-bf31-5e168dc09842@25b8.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14343/-/nyboerjarkurs-fok
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14231/-/ipsc-traening
-DTEND:20260624T180000Z
-DTSTART:20260624T160000Z
-SUMMARY:IPSC-träning
-UID:d8106814-f645-4cb8-8a6f-f2945c38cf82@d810.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14231/-/ipsc-traening
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14203/-/vinterfaelt-1
-DTEND:20260215T170000Z
-DTSTART:20260215T080000Z
-SUMMARY:Vinterfält 1
-UID:5682cac1-4ea3-4ee9-b93b-fc932f6f3745@5682.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14203/-/vinterfaelt-1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14212/-/50m-bokad
-DTEND:20260713T150000Z
-DTSTART:20260713T070000Z
-SUMMARY:50m bokad
-UID:4b7c4695-ae06-4a15-b3a3-7bd1472a48cb@4b7c.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14212/-/50m-bokad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14299/-/em-traening-ipsc
-DTEND:20260519T143000Z
-DTSTART:20260519T123000Z
-SUMMARY:EM-träning IPSC
-UID:71983765-745c-40e0-8c1f-749b5a30aade@7198.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14299/-/em-traening-ipsc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14233/-/ipsc-traening
-DTEND:20260708T180000Z
-DTSTART:20260708T160000Z
-SUMMARY:IPSC-träning
-UID:7add779c-dda9-46f4-95ab-8f2edf62562e@7add.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14233/-/ipsc-traening
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14289/-/faelt-krt
-DTEND:20260905T140000Z
-DTSTART:20260905T070000Z
-SUMMARY:Fält KrT
-UID:78e11b9f-1d7a-4fc8-9585-0bd019e03332@78e1.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14289/-/faelt-krt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14290/-/magnumprecision-krt
-DTEND:20260919T130000Z
-DTSTART:20260919T070000Z
-SUMMARY:Magnumprecision
-UID:936fbf79-143b-4135-af47-6bcf3eba30dc@936f.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14290/-/magnumprecision-krt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14329/-/nyboerjarkurs-bps
-DTEND:20261027T190000Z
-DTSTART:20261027T170000Z
-SUMMARY:Nybörjarkurs BP
-UID:08c110e9-d888-4fd5-bcd1-6bfde41e4f49@08c1.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14329/-/nyboerjarkurs-bps
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8702/-/antikrundan
-DTEND:20260225T120000Z
-DTSTART:20260225T090000Z
-SUMMARY:Antikrundan
-UID:3367766f-fe22-414e-9fd1-3ea227210996@3367.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8702/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14271/-/grov-sportpistol
-DTEND:20260601T180000Z
-DTSTART:20260601T143000Z
-SUMMARY:Grov-/Sportpist
-UID:aaa5fe69-fb74-4c6b-94d1-95b7f8853e02@aaa5.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14271/-/grov-sportpistol
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14242/-/ipsc-traening
-DTEND:20260909T180000Z
-DTSTART:20260909T160000Z
-SUMMARY:IPSC-träning
-UID:fa1b2326-36e3-4c87-81af-1576f473a4a9@fa1b.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14242/-/ipsc-traening
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14226/-/ipsc-traening
-DTEND:20260520T180000Z
-DTSTART:20260520T160000Z
-SUMMARY:IPSC-träning
-UID:3f67e51f-1b66-46de-8301-6b5fa2c146d9@3f67.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14226/-/ipsc-traening
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8726/-/antikrundan
-DTEND:20260812T110000Z
-DTSTART:20260812T080000Z
-SUMMARY:Antikrundan
-UID:f30ad4ef-335f-40a3-9610-d7b846fe8a55@f30a.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8726/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8733/-/antikrundan
-DTEND:20260930T110000Z
-DTSTART:20260930T080000Z
-SUMMARY:Antikrundan
-UID:fb4ff7f4-b25a-4e3c-b2cf-c20570fe2c8f@fb4f.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8733/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14360/-/sm-traening-magnum
-DTEND:20260524T130000Z
-DTSTART:20260524T070000Z
-SUMMARY:SM-träning Magn
-UID:921f3506-5812-47e3-9d5a-4620cdcc52c1@921f.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14360/-/sm-traening-magnum
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14318/-/nyboerjarkurs-bps
-DTEND:20260811T180000Z
-DTSTART:20260811T160000Z
-SUMMARY:Nybörjarkurs BP
-UID:e491c3c9-4a5a-46d0-987e-e678a7310103@e491.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14318/-/nyboerjarkurs-bps
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8206/-/torsdagsskytte
-DTEND:20260827T100000Z
-DTSTART:20260827T070000Z
-SUMMARY:Torsdagsskytte
-UID:b1579a39-21b8-46f1-bd1a-207759be9ceb@b157.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8206/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8734/-/antikrundan
-DTEND:20261007T110000Z
-DTSTART:20261007T080000Z
-SUMMARY:Antikrundan
-UID:1bb0e907-8f47-482b-b344-3c873262b3e6@1bb0.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8734/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14265/-/knallen-nationell-precision
-DTEND:20260514T160000Z
-DTSTART:20260514T070000Z
-SUMMARY:Knallen (Nation
-UID:fd4c8189-b867-4685-8723-cdc2f653fd7a@fd4c.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14265/-/knallen-nationell-precision
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8186/-/torsdagsskytte
-DTEND:20260409T100000Z
-DTSTART:20260409T070000Z
-SUMMARY:Torsdagsskytte
-UID:14a78230-466b-40fc-8068-25740b531027@14a7.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8186/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8719/-/antikrundan
-DTEND:20260624T110000Z
-DTSTART:20260624T080000Z
-SUMMARY:Antikrundan
-UID:50ec9bb0-83e9-4d62-881c-796b01de19fd@50ec.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8719/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14335/-/nyboerjarkurs-fok
-DTEND:20260603T180000Z
-DTSTART:20260603T160000Z
-SUMMARY:Nybörjarkurs FO
-UID:d9e02400-bc66-402f-9dfa-bd104439a535@d9e0.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14335/-/nyboerjarkurs-fok
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14277/-/fripistol
-DTEND:20260725T100000Z
-DTSTART:20260725T070000Z
-SUMMARY:Fripistol
-UID:7a42eff2-f36d-4a08-b3e0-fe4354eec7a5@7a42.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14277/-/fripistol
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14319/-/nyboerjarkurs-bps
-DTEND:20260818T180000Z
-DTSTART:20260818T160000Z
-SUMMARY:Nybörjarkurs BP
-UID:ffa2afbf-e625-4a75-ad84-e07acff8c009@ffa2.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14319/-/nyboerjarkurs-bps
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8208/-/torsdagsskytte
-DTEND:20260910T100000Z
-DTSTART:20260910T070000Z
-SUMMARY:Torsdagsskytte
-UID:22e221aa-9399-4aa7-b219-0ddebb2475ec@22e2.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8208/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8746/-/antikrundan
-DTEND:20261230T120000Z
-DTSTART:20261230T090000Z
-SUMMARY:Antikrundan
-UID:38484782-a7dc-4667-a92f-5db242c4b5a8@3848.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8746/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8183/-/torsdagsskytte
-DTEND:20260319T110000Z
-DTSTART:20260319T080000Z
-SUMMARY:Torsdagsskytte
-UID:fd8c16fd-1529-49ea-a343-e535629c1746@fd8c.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8183/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14286/-/gevaerfaelt
-DTEND:20260829T090000Z
-DTSTART:20260829T070000Z
-SUMMARY:Gevärfält
-UID:a7f17b49-6995-41e1-b7b5-9975eb45b4ca@a7f1.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14286/-/gevaerfaelt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14312/-/nyboerjarkurs-bps
-DTEND:20260630T180000Z
-DTSTART:20260630T160000Z
-SUMMARY:Nybörjarkurs BP
-UID:e7e14310-62a2-4e05-a1f1-ab9a75e6c934@e7e1.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14312/-/nyboerjarkurs-bps
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8729/-/antikrundan
-DTEND:20260902T110000Z
-DTSTART:20260902T080000Z
-SUMMARY:Antikrundan
-UID:a69442b4-82fe-4afb-99df-0630aa9c7452@a694.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8729/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14256/-/magnumprecision-krt
-DTEND:20260418T130000Z
-DTSTART:20260418T070000Z
-SUMMARY:Magnumprecision
-UID:370ae312-3741-4d23-8919-170a91f5438b@370a.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14256/-/magnumprecision-krt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8172/-/torsdagsskytte
-DTEND:20260101T110000Z
-DTSTART:20260101T080000Z
-SUMMARY:Torsdagsskytte
-UID:304c9705-fb0c-47f5-bb5d-955ffdb7c5a9@304c.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8172/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8695/-/antikrundan
-DTEND:20260107T120000Z
-DTSTART:20260107T090000Z
-SUMMARY:Antikrundan
-UID:f126ddcf-38f9-4743-922b-33e8dda17a40@f126.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8695/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14362/-/em-traening-ipsc
-DTEND:20260515T090000Z
-DTSTART:20260515T070000Z
-SUMMARY:EM-träning IPSC
-UID:3c99bc3d-2e50-4e82-be13-31a3153aa854@3c99.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14362/-/em-traening-ipsc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8218/-/torsdagsskytte
-DTEND:20261119T110000Z
-DTSTART:20261119T080000Z
-SUMMARY:Torsdagsskytte
-UID:26475a80-e141-4a67-91a6-4b632546317d@2647.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8218/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14254/-/precision-krt
-DTEND:20260413T180000Z
-DTSTART:20260413T143000Z
-SUMMARY:Precision KrT
-UID:162f78c6-b76d-4c9c-8217-f32dc9e41463@162f.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14254/-/precision-krt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14230/-/ipsc-traening
-DTEND:20260617T180000Z
-DTSTART:20260617T160000Z
-SUMMARY:IPSC-träning
-UID:9d93df1b-d5b8-44bf-ac18-182fa18317f8@9d93.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14230/-/ipsc-traening
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8197/-/torsdagsskytte
-DTEND:20260625T100000Z
-DTSTART:20260625T070000Z
-SUMMARY:Torsdagsskytte
-UID:d1e84b2e-a174-4a92-83d5-bf5a026a35ab@d1e8.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8197/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14282/-/precision-krt
-DTEND:20260817T180000Z
-DTSTART:20260817T143000Z
-SUMMARY:Precision KrT
-UID:03055f88-fd7e-4ca9-8349-b03bd2931e76@0305.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14282/-/precision-krt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8743/-/antikrundan
-DTEND:20261209T120000Z
-DTSTART:20261209T090000Z
-SUMMARY:Antikrundan
-UID:4bce076f-d554-44ae-a737-9ce331281439@4bce.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8743/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14307/-/nyboerjarkurs-bps
-DTEND:20260526T180000Z
-DTSTART:20260526T160000Z
-SUMMARY:Nybörjarkurs BP
-UID:90eb219d-df88-468d-84e6-e7d0cc45d30e@90eb.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14307/-/nyboerjarkurs-bps
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8727/-/antikrundan
-DTEND:20260819T110000Z
-DTSTART:20260819T080000Z
-SUMMARY:Antikrundan
-UID:09c59eac-6f66-4646-820e-f31e139e3af7@09c5.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8727/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14355/-/nyboerjarkurs-fok
-DTEND:20261021T180000Z
-DTSTART:20261021T160000Z
-SUMMARY:Nybörjarkurs FO
-UID:1b4f1223-67f8-4878-aedc-528d93567de5@1b4f.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14355/-/nyboerjarkurs-fok
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8204/-/torsdagsskytte
-DTEND:20260813T100000Z
-DTSTART:20260813T070000Z
-SUMMARY:Torsdagsskytte
-UID:dcf8208b-1aeb-4fd1-a79a-801f7783a5e1@dcf8.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8204/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14204/-/vinterfaelt-2
-DTEND:20260308T170000Z
-DTSTART:20260308T080000Z
-SUMMARY:Vinterfält 2
-UID:580bb213-fb3c-4e56-b0aa-cced87deef2d@580b.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14204/-/vinterfaelt-2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8182/-/torsdagsskytte
-DTEND:20260312T110000Z
-DTSTART:20260312T080000Z
-SUMMARY:Torsdagsskytte
-UID:c9bc3f46-4af2-4b05-b50a-cd8e3191db1a@c9bc.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8182/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8717/-/antikrundan
-DTEND:20260610T110000Z
-DTSTART:20260610T080000Z
-SUMMARY:Antikrundan
-UID:328dbaeb-4baf-4417-b891-401a611d0634@328d.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8717/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14366/-/magnumtraening
-DTEND:20260628T110000Z
-DTSTART:20260628T070000Z
-SUMMARY:Magnumträning
-UID:6461b86a-5283-4b9f-8609-c60560c8cc5f@6461.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14366/-/magnumtraening
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14240/-/ipsc-traening
-DTEND:20260826T180000Z
-DTSTART:20260826T160000Z
-SUMMARY:IPSC-träning
-UID:085f4130-8453-4e0c-9977-290cb6a988e1@085f.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14240/-/ipsc-traening
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14275/-/precision-krt
-DTEND:20260615T180000Z
-DTSTART:20260615T143000Z
-SUMMARY:Precision KrT
-UID:bf6e5679-91ac-4654-96e5-c08bdb6584b8@bf6e.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14275/-/precision-krt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8201/-/torsdagsskytte
-DTEND:20260723T100000Z
-DTSTART:20260723T070000Z
-SUMMARY:Torsdagsskytte
-UID:6a943dd9-7bd8-42dc-adea-836ab1cbc5a2@6a94.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8201/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8193/-/torsdagsskytte
-DTEND:20260528T100000Z
-DTSTART:20260528T070000Z
-SUMMARY:Torsdagsskytte
-UID:36575dac-99fc-4ab6-b67b-d0777d2b3f1f@3657.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8193/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8177/-/torsdagsskytte
-DTEND:20260205T110000Z
-DTSTART:20260205T080000Z
-SUMMARY:Torsdagsskytte
-UID:0bf235d0-4ac6-43c6-acd5-1e2f38dbed98@0bf2.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8177/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14308/-/nyboerjarkurs-bps
-DTEND:20260602T180000Z
-DTSTART:20260602T160000Z
-SUMMARY:Nybörjarkurs BP
-UID:4d32ef5e-539b-4631-adb1-6f2491f70ac8@4d32.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14308/-/nyboerjarkurs-bps
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8209/-/torsdagsskytte
-DTEND:20260917T100000Z
-DTSTART:20260917T070000Z
-SUMMARY:Torsdagsskytte
-UID:47566547-0c3f-4181-bf16-5fe85467149c@4756.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8209/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14328/-/nyboerjarkurs-bps
-DTEND:20261020T180000Z
-DTSTART:20261020T160000Z
-SUMMARY:Nybörjarkurs BP
-UID:ed9e41a2-b6df-48a3-9d40-5bbcf4a2fbc1@ed9e.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14328/-/nyboerjarkurs-bps
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8712/-/antikrundan
-DTEND:20260506T110000Z
-DTSTART:20260506T080000Z
-SUMMARY:Antikrundan
-UID:7eecf5c9-4efb-48a9-a361-a955ddbd6c25@7eec.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8712/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14273/-/fripistol
-DTEND:20260606T100000Z
-DTSTART:20260606T070000Z
-SUMMARY:Fripistol
-UID:dbd389f4-8da5-4d9a-bf6e-785a84d11986@dbd3.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14273/-/fripistol
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8723/-/antikrundan
-DTEND:20260722T110000Z
-DTSTART:20260722T080000Z
-SUMMARY:Antikrundan
-UID:312b395b-e800-4b94-901d-c67930cf1342@312b.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8723/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14206/-/sponsorskytte
-DTEND:20260425T110000Z
-DTSTART:20260425T080000Z
-SUMMARY:Sponsorskytte
-UID:b1118249-abe8-4c3f-a816-4b84f8ed1679@b111.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14206/-/sponsorskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8697/-/antikrundan
-DTEND:20260121T120000Z
-DTSTART:20260121T090000Z
-SUMMARY:Antikrundan
-UID:6a70554f-0a6a-430a-a56f-1964c1ecae62@6a70.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8697/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14297/-/50m-bokad
-DTEND:20260423T140000Z
-DTSTART:20260423T120000Z
-SUMMARY:50m bokad
-UID:bf05ac5f-3395-4e3c-9949-7de175cd8ebc@bf05.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14297/-/50m-bokad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14280/-/hj-krt
-DTEND:20260810T180000Z
-DTSTART:20260810T160000Z
-SUMMARY:HJ KrT
-UID:35d7fe9b-1568-45cb-bf83-2b28f0766193@35d7.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14280/-/hj-krt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14243/-/ipsc-traening
-DTEND:20260916T180000Z
-DTSTART:20260916T160000Z
-SUMMARY:IPSC-träning
-UID:8f24b903-a43a-4b80-a449-c8b5141e4b58@8f24.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14243/-/ipsc-traening
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8216/-/torsdagsskytte
-DTEND:20261105T110000Z
-DTSTART:20261105T080000Z
-SUMMARY:Torsdagsskytte
-UID:0827a541-5e33-413b-99a9-84fc9ff54f5a@0827.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8216/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8212/-/torsdagsskytte
-DTEND:20261008T100000Z
-DTSTART:20261008T070000Z
-SUMMARY:Torsdagsskytte
-UID:cc78b139-dca8-4e04-95f6-a1196a99c409@cc78.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8212/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14255/-/militaer-snabbmatch-krt
-DTEND:20260416T180000Z
-DTSTART:20260416T143000Z
-SUMMARY:Militär Snabbma
-UID:b6806704-5956-41a1-8a28-ab32ea3303d2@b680.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14255/-/militaer-snabbmatch-krt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14287/-/korthallsgevaer
-DTEND:20260829T110000Z
-DTSTART:20260829T090000Z
-SUMMARY:Korthållsgevär
-UID:a8ac58d7-c57b-4d07-a7b1-9d03ff84f16a@a8ac.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14287/-/korthallsgevaer
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14301/-/em-traening-ipsc
-DTEND:20260529T110000Z
-DTSTART:20260529T070000Z
-SUMMARY:EM-träning IPSC
-UID:060584c7-13aa-4042-be89-3977dad7fa93@0605.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14301/-/em-traening-ipsc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8722/-/antikrundan
-DTEND:20260715T110000Z
-DTSTART:20260715T080000Z
-SUMMARY:Antikrundan
-UID:e0e3bf43-efcb-4a02-8136-22d50a8ca015@e0e3.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8722/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14320/-/nyboerjarkurs-bps
-DTEND:20260825T180000Z
-DTSTART:20260825T160000Z
-SUMMARY:Nybörjarkurs BP
-UID:fd1d0843-aea7-4b42-88e6-acab591f6a04@fd1d.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14320/-/nyboerjarkurs-bps
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8185/-/torsdagsskytte
-DTEND:20260402T100000Z
-DTSTART:20260402T070000Z
-SUMMARY:Torsdagsskytte
-UID:61b2dae9-fb75-4b23-9477-438334fedb8b@61b2.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8185/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14207/-/arbetsdag
-DTEND:20260307T140000Z
-DTSTART:20260307T080000Z
-SUMMARY:Arbetsdag
-UID:17f788b0-afc0-49ac-a9a4-0643187efac4@17f7.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14207/-/arbetsdag
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14258/-/grov-sportpistol
-DTEND:20260423T180000Z
-DTSTART:20260423T143000Z
-SUMMARY:Grov-/Sportpist
-UID:e83f35e9-5117-47df-bdf7-4e8c6a550391@e83f.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14258/-/grov-sportpistol
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14276/-/faelt-krt
-DTEND:20260627T160000Z
-DTSTART:20260627T070000Z
-SUMMARY:Fält KrT
-UID:ec82c491-e968-48bf-a59f-b2fc2f02b3bd@ec82.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14276/-/faelt-krt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14339/-/nyboerjarkurs-fok
-DTEND:20260701T180000Z
-DTSTART:20260701T160000Z
-SUMMARY:Nybörjarkurs FO
-UID:ce92288c-2cb5-42eb-94f1-52235e5e57a4@ce92.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14339/-/nyboerjarkurs-fok
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8711/-/antikrundan
-DTEND:20260429T110000Z
-DTSTART:20260429T080000Z
-SUMMARY:Antikrundan
-UID:f36c721d-2ed9-4707-b2b5-dfb29cfa3798@f36c.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8711/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14306/-/nyboerjarkurs-bps
-DTEND:20260519T180000Z
-DTSTART:20260519T160000Z
-SUMMARY:Nybörjarkurs BP
-UID:1d2b4791-8682-4502-9cf3-e2c109f908e6@1d2b.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14306/-/nyboerjarkurs-bps
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8217/-/torsdagsskytte
-DTEND:20261112T110000Z
-DTSTART:20261112T080000Z
-SUMMARY:Torsdagsskytte
-UID:c68d3e04-f321-44bb-8b6b-e000d6998ec9@c68d.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8217/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14357/-/50m-bokad
-DTEND:20260513T143000Z
-DTSTART:20260513T130000Z
-SUMMARY:50m bokad
-UID:35beb814-c5c7-45e3-9713-f2242c0433e1@35be.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14357/-/50m-bokad
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14267/-/gevaerfaelt
-DTEND:20260523T090000Z
-DTSTART:20260523T070000Z
-SUMMARY:Gevärfält
-UID:cb0490b5-6231-4222-a7d1-e86e821e39d8@cb04.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14267/-/gevaerfaelt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14274/-/grov-sportpistol
-DTEND:20260611T180000Z
-DTSTART:20260611T143000Z
-SUMMARY:Grov-/Sportpist
-UID:4e788254-6d15-44ce-94b0-ab77c74fd2de@4e78.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14274/-/grov-sportpistol
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14364/-/magnumtraening
-DTEND:20260614T110000Z
-DTSTART:20260614T070000Z
-SUMMARY:Magnumträning
-UID:e3e12fc3-0043-4329-9834-e5f6a0dcb5c4@e3e1.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14364/-/magnumtraening
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14288/-/korthallsgevaer
-DTEND:20260907T180000Z
-DTSTART:20260907T160000Z
-SUMMARY:Korthållsgevär
-UID:5f8fa5c2-6857-4aec-b9f8-9c247ca3f53c@5f8f.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14288/-/korthallsgevaer
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8173/-/torsdagsskytte
-DTEND:20260108T110000Z
-DTSTART:20260108T080000Z
-SUMMARY:Torsdagsskytte
-UID:a199af1c-9462-49ec-a185-3eacbd64f4b6@a199.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8173/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14363/-/magnumtraening
-DTEND:20260607T110000Z
-DTSTART:20260607T070000Z
-SUMMARY:Magnumträning
-UID:82142b8e-c968-48a1-b1ab-6262d6507841@8214.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14363/-/magnumtraening
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14313/-/nyboerjarkurs-bps
-DTEND:20260707T180000Z
-DTSTART:20260707T160000Z
-SUMMARY:Nybörjarkurs BP
-UID:96d96365-581b-43e1-a700-4439d1b81c05@96d9.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14313/-/nyboerjarkurs-bps
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14332/-/nyboerjarkurs-fok
-DTEND:20260513T180000Z
-DTSTART:20260513T160000Z
-SUMMARY:Nybörjarkurs FO
-UID:4470953d-a691-421b-95f6-452a764fdb7f@4470.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14332/-/nyboerjarkurs-fok
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14246/-/riflekurs
-DTEND:20260405T150000Z
-DTSTART:20260405T070000Z
-SUMMARY:Riflekurs
-UID:bb5e6fbb-13ed-4bbc-8681-ef0b22e8532b@bb5e.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14246/-/riflekurs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14229/-/ipsc-traening
-DTEND:20260610T180000Z
-DTSTART:20260610T160000Z
-SUMMARY:IPSC-träning
-UID:01696815-d617-46e7-9a0b-8adbb70aaf72@0169.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14229/-/ipsc-traening
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14281/-/standardpistol
-DTEND:20260813T180000Z
-DTSTART:20260813T143000Z
-SUMMARY:Standardpistol
-UID:0c3c942c-a1a9-4819-9108-79304f9793ae@0c3c.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14281/-/standardpistol
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14356/-/nyboerjarkurs-fok
-DTEND:20261028T190000Z
-DTSTART:20261028T170000Z
-SUMMARY:Nybörjarkurs FO
-UID:db9ee8dc-a80c-4c5e-b1a5-dbe15cb874d0@db9e.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14356/-/nyboerjarkurs-fok
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8210/-/torsdagsskytte
-DTEND:20260924T100000Z
-DTSTART:20260924T070000Z
-SUMMARY:Torsdagsskytte
-UID:cf94f52f-2e86-45f6-8133-7dc5671aa357@cf94.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8210/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8724/-/antikrundan
-DTEND:20260729T110000Z
-DTSTART:20260729T080000Z
-SUMMARY:Antikrundan
-UID:798a2a2e-1bff-4412-b1f7-2863efac2dac@798a.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8724/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14216/-/grundkurs-ipsc
-DTEND:20260411T150000Z
-DTSTART:20260411T070000Z
-SUMMARY:Grundkurs IPSC
-UID:6d3afe07-1a1c-498e-9a2c-38389c8642af@6d3a.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14216/-/grundkurs-ipsc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8740/-/antikrundan
-DTEND:20261118T120000Z
-DTSTART:20261118T090000Z
-SUMMARY:Antikrundan
-UID:95c51ef2-d745-4652-aa28-b67b08305934@95c5.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8740/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8741/-/antikrundan
-DTEND:20261125T120000Z
-DTSTART:20261125T090000Z
-SUMMARY:Antikrundan
-UID:9e890a88-ae00-4b30-a010-ee59f7a046d6@9e89.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8741/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14336/-/nyboerjarkurs-fok
-DTEND:20260610T180000Z
-DTSTART:20260610T160000Z
-SUMMARY:Nybörjarkurs FO
-UID:87e05c5b-3c1b-476f-be40-8d4311db6b30@87e0.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14336/-/nyboerjarkurs-fok
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14225/-/ipsc-traening
-DTEND:20260513T180000Z
-DTSTART:20260513T160000Z
-SUMMARY:IPSC-träning
-UID:4aee46a5-dc76-4618-a929-c0dc9ea2069c@4aee.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14225/-/ipsc-traening
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14344/-/nyboerjarkurs-fok
-DTEND:20260805T180000Z
-DTSTART:20260805T160000Z
-SUMMARY:Nybörjarkurs FO
-UID:4531498f-031e-4c82-a6f7-a8848303c70b@4531.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14344/-/nyboerjarkurs-fok
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14324/-/nyboerjarkurs-bps
-DTEND:20260922T180000Z
-DTSTART:20260922T160000Z
-SUMMARY:Nybörjarkurs BP
-UID:b1892c09-b0b4-4a6f-b2eb-fbc6aa2a593b@b189.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14324/-/nyboerjarkurs-bps
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8698/-/antikrundan
-DTEND:20260128T120000Z
-DTSTART:20260128T090000Z
-SUMMARY:Antikrundan
-UID:3b8ff330-fccf-47df-9a7b-d2c0e01a9575@3b8f.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8698/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8221/-/torsdagsskytte
-DTEND:20261210T110000Z
-DTSTART:20261210T080000Z
-SUMMARY:Torsdagsskytte
-UID:3a4dbb72-2a98-4e9f-94b0-d33cac87cd46@3a4d.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8221/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14285/-/precision-krt
-DTEND:20260831T180000Z
-DTSTART:20260831T143000Z
-SUMMARY:Precision KrT
-UID:1463713c-44de-45b2-8801-b7bd26569838@1463.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14285/-/precision-krt
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14205/-/sponsorskytte
-DTEND:20260320T180000Z
-DTSTART:20260320T150000Z
-SUMMARY:Sponsorskytte
-UID:b184eb65-f518-427e-8f54-61fcb0e23363@b184.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14205/-/sponsorskytte
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14331/-/nyboerjarkurs-fok
-DTEND:20260506T180000Z
-DTSTART:20260506T160000Z
-SUMMARY:Nybörjarkurs FO
-UID:e8a5c5df-2b0f-458e-a46b-0512c3610812@e8a5.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14331/-/nyboerjarkurs-fok
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14352/-/nyboerjarkurs-fok
-DTEND:20260930T180000Z
-DTSTART:20260930T160000Z
-SUMMARY:Nybörjarkurs FO
-UID:9dfc3231-f135-4044-9ea8-a1c5c201aa1d@9dfc.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14352/-/nyboerjarkurs-fok
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14238/-/ipsc-traening
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14345/-/nyboerjarkurs-fok
 DTEND:20260812T180000Z
 DTSTART:20260812T160000Z
-SUMMARY:IPSC-träning
-UID:c6e4761f-bd96-450e-bd7b-5df986538c83@c6e4.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14238/-/ipsc-traening
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8738/-/antikrundan
-DTEND:20261104T120000Z
-DTSTART:20261104T090000Z
-SUMMARY:Antikrundan
-UID:3cf84236-21d9-4e36-804b-ff16b9f86897@3cf8.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8738/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14228/-/ipsc-traening
-DTEND:20260603T180000Z
-DTSTART:20260603T160000Z
-SUMMARY:IPSC-träning
-UID:fe5da481-b3fb-4d62-a48a-f930611d4a1f@fe5d.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14228/-/ipsc-traening
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14311/-/nyboerjarkurs-bps
-DTEND:20260623T180000Z
-DTSTART:20260623T160000Z
-SUMMARY:Nybörjarkurs BP
-UID:8ff93d95-eb45-4959-9798-387448a2f5d3@8ff9.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14311/-/nyboerjarkurs-bps
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14210/-/50m-bokad
-DTEND:20260708T150000Z
-DTSTART:20260708T070000Z
-SUMMARY:50m bokad
-UID:28ef8528-c526-45b1-a3a6-0e369b147382@28ef.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14210/-/50m-bokad
+SUMMARY:Nybörjarkurs FO
+UID:653cd9d1-328e-4960-af46-36808fa6fda9@653c.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14345/-/nyboerjarkurs-fok
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8192/-/torsdagsskytte
 DTEND:20260521T100000Z
 DTSTART:20260521T070000Z
 SUMMARY:Torsdagsskytte
-UID:a59d7ce8-d2e7-4921-8194-9aee4922ecd3@a59d.org
+UID:601a9c86-a6b5-4b1a-9e88-163dec4eedb9@601a.org
 URL:https://borasps.se/index.php/kalender/handelsedetaljer/8192/-/torsdagsskytte
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14239/-/ipsc-traening
-DTEND:20260819T180000Z
-DTSTART:20260819T160000Z
-SUMMARY:IPSC-träning
-UID:d4725d1a-e44b-40f6-844f-1048477a058a@d472.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14239/-/ipsc-traening
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14279/-/magnumprecision-krt
+DTEND:20260802T130000Z
+DTSTART:20260802T070000Z
+SUMMARY:Magnumprecision
+UID:9d3d4f35-f5d9-4c40-a3af-34cd6f9a8540@9d3d.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14279/-/magnumprecision-krt
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8731/-/antikrundan
-DTEND:20260916T110000Z
-DTSTART:20260916T080000Z
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14309/-/nyboerjarkurs-bps
+DTEND:20260609T180000Z
+DTSTART:20260609T160000Z
+SUMMARY:Nybörjarkurs BP
+UID:db476823-9939-43fa-b539-2c7f81093099@db47.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14309/-/nyboerjarkurs-bps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14274/-/grov-sportpistol
+DTEND:20260611T180000Z
+DTSTART:20260611T143000Z
+SUMMARY:Grov-/Sportpist
+UID:84eea27a-d5c5-414f-9bef-d5242e4d14fc@84ee.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14274/-/grov-sportpistol
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8695/-/antikrundan
+DTEND:20260107T120000Z
+DTSTART:20260107T090000Z
 SUMMARY:Antikrundan
-UID:5d0a3bda-fd0c-4561-aec0-8451e82e7c09@5d0a.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8731/-/antikrundan
+UID:31ef23de-3812-41f6-92c1-8ff0fed5111e@31ef.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8695/-/antikrundan
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8202/-/torsdagsskytte
-DTEND:20260730T100000Z
-DTSTART:20260730T070000Z
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8703/-/antikrundan
+DTEND:20260304T120000Z
+DTSTART:20260304T090000Z
+SUMMARY:Antikrundan
+UID:e8a414f4-054a-433e-aeaa-d4408d848619@e8a4.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8703/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14227/-/ipsc-traening
+DTEND:20260527T180000Z
+DTSTART:20260527T160000Z
+SUMMARY:IPSC-träning
+UID:e4c6007e-b1e4-4417-bdd4-b0dd7d841c56@e4c6.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14227/-/ipsc-traening
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8179/-/torsdagsskytte
+DTEND:20260219T110000Z
+DTSTART:20260219T080000Z
 SUMMARY:Torsdagsskytte
-UID:8df56699-00d8-491f-b6fb-b9cafc89d513@8df5.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8202/-/torsdagsskytte
+UID:926ad007-dbfd-4924-9df4-480c13b2dfc4@926a.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8179/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8745/-/antikrundan
+DTEND:20261223T120000Z
+DTSTART:20261223T090000Z
+SUMMARY:Antikrundan
+UID:f5dbbe1b-433c-492e-a1b4-cdc4e9a0a694@f5db.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8745/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8733/-/antikrundan
+DTEND:20260930T110000Z
+DTSTART:20260930T080000Z
+SUMMARY:Antikrundan
+UID:805dbf51-d0b3-4678-b899-5d22b94d1b7a@805d.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8733/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14289/-/faelt-krt
+DTEND:20260905T140000Z
+DTSTART:20260905T070000Z
+SUMMARY:Fält KrT
+UID:b0fb5ed0-0fa4-402c-b1dc-586f0545c791@b0fb.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14289/-/faelt-krt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14286/-/gevaerfaelt
+DTEND:20260829T090000Z
+DTSTART:20260829T070000Z
+SUMMARY:Gevärfält
+UID:71925cb7-086f-4ce9-a4f7-6132d6e9087d@7192.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14286/-/gevaerfaelt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14357/-/50m-bokad
+DTEND:20260513T143000Z
+DTSTART:20260513T130000Z
+SUMMARY:50m bokad
+UID:51a7c7a0-1020-4383-b8f2-a3894c9aafb6@51a7.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14357/-/50m-bokad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8726/-/antikrundan
+DTEND:20260812T110000Z
+DTSTART:20260812T080000Z
+SUMMARY:Antikrundan
+UID:6419db9c-3de3-49f2-bec7-da6af23bf9a0@6419.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8726/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8220/-/torsdagsskytte
+DTEND:20261203T110000Z
+DTSTART:20261203T080000Z
+SUMMARY:Torsdagsskytte
+UID:b52f9abd-8592-4ec8-a5aa-8e293bb7be37@b52f.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8220/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8705/-/antikrundan
+DTEND:20260318T120000Z
+DTSTART:20260318T090000Z
+SUMMARY:Antikrundan
+UID:64b28675-f9b5-4503-9364-6f4fbafce57f@64b2.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8705/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14305/-/nyboerjarkurs-bps
+DTEND:20260512T180000Z
+DTSTART:20260512T160000Z
+SUMMARY:Nybörjarkurs BP
+UID:82bfb8ff-8ba4-45e7-a5c6-fae34489b8c8@82bf.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14305/-/nyboerjarkurs-bps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14365/-/magnumtraening
+DTEND:20260621T110000Z
+DTSTART:20260621T070000Z
+SUMMARY:Magnumträning
+UID:3e07060e-704d-451a-b841-666f12e8cc2d@3e07.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14365/-/magnumtraening
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14237/-/ipsc-traening
+DTEND:20260805T180000Z
+DTSTART:20260805T160000Z
+SUMMARY:IPSC-träning
+UID:47540859-f41b-48bd-8998-4cff87ee3b2e@4754.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14237/-/ipsc-traening
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8184/-/torsdagsskytte
+DTEND:20260326T110000Z
+DTSTART:20260326T080000Z
+SUMMARY:Torsdagsskytte
+UID:5b392c31-fbc6-4d2d-bc44-1d6a2faf214f@5b39.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8184/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8183/-/torsdagsskytte
+DTEND:20260319T110000Z
+DTSTART:20260319T080000Z
+SUMMARY:Torsdagsskytte
+UID:7fdcc310-3690-4915-904f-df8d17a0cda6@7fdc.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8183/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8208/-/torsdagsskytte
+DTEND:20260910T100000Z
+DTSTART:20260910T070000Z
+SUMMARY:Torsdagsskytte
+UID:92545c6c-dfb9-456d-bb5d-ad0fffbd6196@9254.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8208/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14280/-/hj-krt
+DTEND:20260810T180000Z
+DTSTART:20260810T160000Z
+SUMMARY:HJ KrT
+UID:d4435f5d-df6f-4ea3-9d01-2de964e88998@d443.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14280/-/hj-krt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14203/-/vinterfaelt-1
+DTEND:20260215T170000Z
+DTSTART:20260215T080000Z
+SUMMARY:Vinterfält 1
+UID:7ee1a945-cdc3-471a-86fe-5dec3ed3efe4@7ee1.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14203/-/vinterfaelt-1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14352/-/nyboerjarkurs-fok
+DTEND:20260930T180000Z
+DTSTART:20260930T160000Z
+SUMMARY:Nybörjarkurs FO
+UID:c0549790-a521-4089-ad06-419a963c2204@c054.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14352/-/nyboerjarkurs-fok
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8701/-/antikrundan
+DTEND:20260218T120000Z
+DTSTART:20260218T090000Z
+SUMMARY:Antikrundan
+UID:3336eb6d-72a7-4697-858d-70715b65ed48@3336.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8701/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14319/-/nyboerjarkurs-bps
+DTEND:20260818T180000Z
+DTSTART:20260818T160000Z
+SUMMARY:Nybörjarkurs BP
+UID:48461e28-56b2-4442-ad92-2866f5367c24@4846.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14319/-/nyboerjarkurs-bps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14226/-/ipsc-traening
+DTEND:20260520T180000Z
+DTSTART:20260520T160000Z
+SUMMARY:IPSC-träning
+UID:eafbb3be-d0c8-4474-8517-188797e0ca88@eafb.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14226/-/ipsc-traening
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8699/-/antikrundan
 DTEND:20260204T120000Z
 DTSTART:20260204T090000Z
 SUMMARY:Antikrundan
-UID:0ba2b59c-e39d-4af3-814b-983f8d85a859@0ba2.org
+UID:ae682f1f-21a1-441c-8bea-87a17b184d63@ae68.org
 URL:https://borasps.se/index.php/kalender/handelsedetaljer/8699/-/antikrundan
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8713/-/antikrundan
-DTEND:20260513T110000Z
-DTSTART:20260513T080000Z
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8700/-/antikrundan
+DTEND:20260211T120000Z
+DTSTART:20260211T090000Z
 SUMMARY:Antikrundan
-UID:cb241d04-5919-485b-a4f0-0bbaa83d7ef6@cb24.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8713/-/antikrundan
+UID:a64446ae-7c02-44cf-b890-e968c73dd083@a644.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8700/-/antikrundan
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8189/-/torsdagsskytte
-DTEND:20260430T100000Z
-DTSTART:20260430T070000Z
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14222/-/ipsc-traening
+DTEND:20260422T180000Z
+DTSTART:20260422T160000Z
+SUMMARY:IPSC-träning
+UID:9725f7a6-1749-45b5-889e-d68c383ace3e@9725.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14222/-/ipsc-traening
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14367/-/hemortens
+DTEND:20260528T180000Z
+DTSTART:20260528T143000Z
+SUMMARY:Hemortens
+UID:51d74a0b-92b3-4b12-97b6-e5cf2d2f21bc@51d7.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14367/-/hemortens
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14364/-/magnumtraening
+DTEND:20260614T110000Z
+DTSTART:20260614T070000Z
+SUMMARY:Magnumträning
+UID:df275093-054c-41b9-8ae7-3621572a932d@df27.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14364/-/magnumtraening
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14230/-/ipsc-traening
+DTEND:20260617T180000Z
+DTSTART:20260617T160000Z
+SUMMARY:IPSC-träning
+UID:560b0f14-f550-4f25-b846-18a488de84fb@560b.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14230/-/ipsc-traening
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14211/-/50m-bokad
+DTEND:20260709T150000Z
+DTSTART:20260709T070000Z
+SUMMARY:50m bokad
+UID:0a3621e5-1d78-4365-85de-a2976a3e590a@0a36.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14211/-/50m-bokad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8737/-/antikrundan
+DTEND:20261028T120000Z
+DTSTART:20261028T090000Z
+SUMMARY:Antikrundan
+UID:136f86a7-6f77-4069-999d-d80ad1ba1d65@136f.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8737/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8219/-/torsdagsskytte
+DTEND:20261126T110000Z
+DTSTART:20261126T080000Z
 SUMMARY:Torsdagsskytte
-UID:001facac-3415-4d5f-b873-a980f0866ddd@001f.org
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8189/-/torsdagsskytte
+UID:927966b3-b204-4691-822e-241e6db85cf4@9279.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8219/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14297/-/50m-bokad
+DTEND:20260423T140000Z
+DTSTART:20260423T120000Z
+SUMMARY:50m bokad
+UID:0ac7886f-15ed-48ad-a1ea-8df4aff0d88c@0ac7.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14297/-/50m-bokad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14282/-/precision-krt
+DTEND:20260817T180000Z
+DTSTART:20260817T143000Z
+SUMMARY:Precision KrT
+UID:437d78dc-c916-4e50-8b34-9bf3483d8445@437d.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14282/-/precision-krt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14293/-/faelt-krt
+DTEND:20260503T140000Z
+DTSTART:20260503T070000Z
+SUMMARY:Fält KrT
+UID:a06bb8e2-ce94-4a16-a41c-fde2176fbe6b@a06b.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14293/-/faelt-krt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14358/-/staeddag
+DTEND:20260531T130000Z
+DTSTART:20260531T070000Z
+SUMMARY:Städdag
+UID:cab514ba-d784-4c5d-ae51-639e703a9861@cab5.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14358/-/staeddag
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14233/-/ipsc-traening
+DTEND:20260708T180000Z
+DTSTART:20260708T160000Z
+SUMMARY:IPSC-träning
+UID:deb8dbb0-1ea5-4ef9-b8f0-44cf8e272f22@deb8.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14233/-/ipsc-traening
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8698/-/antikrundan
+DTEND:20260128T120000Z
+DTSTART:20260128T090000Z
+SUMMARY:Antikrundan
+UID:e02a4188-4c7c-4d5e-b3fc-894941801427@e02a.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8698/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8188/-/torsdagsskytte
+DTEND:20260423T100000Z
+DTSTART:20260423T070000Z
+SUMMARY:Torsdagsskytte
+UID:3a66103b-2c30-412c-8b59-1998ae10db91@3a66.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8188/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8209/-/torsdagsskytte
+DTEND:20260917T100000Z
+DTSTART:20260917T070000Z
+SUMMARY:Torsdagsskytte
+UID:d367195a-8c48-4b96-a9d0-4817ea121f3b@d367.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8209/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8216/-/torsdagsskytte
+DTEND:20261105T110000Z
+DTSTART:20261105T080000Z
+SUMMARY:Torsdagsskytte
+UID:03c68a1d-00d1-481b-b0d0-59c08efc7a80@03c6.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8216/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8717/-/antikrundan
+DTEND:20260610T110000Z
+DTSTART:20260610T080000Z
+SUMMARY:Antikrundan
+UID:e5816f1a-debd-4f2b-bbbd-caed8bb15ec4@e581.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8717/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8718/-/antikrundan
+DTEND:20260617T110000Z
+DTSTART:20260617T080000Z
+SUMMARY:Antikrundan
+UID:13a566f3-d6b1-428e-bc2f-0ba0f3c34e64@13a5.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8718/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14326/-/nyboerjarkurs-bps
+DTEND:20261006T180000Z
+DTSTART:20261006T160000Z
+SUMMARY:Nybörjarkurs BP
+UID:e532c4b9-c7e7-4191-9580-8fc28b81fd32@e532.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14326/-/nyboerjarkurs-bps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8172/-/torsdagsskytte
+DTEND:20260101T110000Z
+DTSTART:20260101T080000Z
+SUMMARY:Torsdagsskytte
+UID:7dd04541-6f1c-4149-8dc2-ec03d25bd36d@7dd0.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8172/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14204/-/vinterfaelt-2
+DTEND:20260308T170000Z
+DTSTART:20260308T080000Z
+SUMMARY:Vinterfält 2
+UID:86ffc936-f8b4-46cc-94f5-ed1bc8a75a01@86ff.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14204/-/vinterfaelt-2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14313/-/nyboerjarkurs-bps
+DTEND:20260707T180000Z
+DTSTART:20260707T160000Z
+SUMMARY:Nybörjarkurs BP
+UID:3f191185-9fbc-4707-8339-8c7848d2fd46@3f19.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14313/-/nyboerjarkurs-bps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8187/-/torsdagsskytte
+DTEND:20260416T100000Z
+DTSTART:20260416T070000Z
+SUMMARY:Torsdagsskytte
+UID:0abaadf4-5abb-451a-aab1-539f1f29716f@0aba.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8187/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8224/-/torsdagsskytte
+DTEND:20261231T110000Z
+DTSTART:20261231T080000Z
+SUMMARY:Torsdagsskytte
+UID:eb3e332b-91aa-4eea-b6b5-710c63a76dc0@eb3e.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8224/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14294/-/50m-bokad
+DTEND:20260420T140000Z
+DTSTART:20260420T120000Z
+SUMMARY:50m bokad
+UID:acf1bade-785a-4972-aeda-b4e50ee4b20d@acf1.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14294/-/50m-bokad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8724/-/antikrundan
+DTEND:20260729T110000Z
+DTSTART:20260729T080000Z
+SUMMARY:Antikrundan
+UID:6ad1bb73-2889-4534-95c1-e9a06824a564@6ad1.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8724/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8221/-/torsdagsskytte
+DTEND:20261210T110000Z
+DTSTART:20261210T080000Z
+SUMMARY:Torsdagsskytte
+UID:4153da54-b495-4118-ab6b-b1c7fec6a787@4153.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8221/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14316/-/nyboerjarkurs-bps
+DTEND:20260728T180000Z
+DTSTART:20260728T160000Z
+SUMMARY:Nybörjarkurs BP
+UID:a91552b8-b385-434c-ba11-aa691705a3de@a915.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14316/-/nyboerjarkurs-bps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8174/-/torsdagsskytte
+DTEND:20260115T110000Z
+DTSTART:20260115T080000Z
+SUMMARY:Torsdagsskytte
+UID:4baea383-30d2-4e5c-9e01-9f136a4441b8@4bae.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8174/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14314/-/nyboerjarkurs-bps
+DTEND:20260714T180000Z
+DTSTART:20260714T160000Z
+SUMMARY:Nybörjarkurs BP
+UID:43cbc402-d30a-496d-a019-849a7d5fa141@43cb.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14314/-/nyboerjarkurs-bps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8181/-/torsdagsskytte
+DTEND:20260305T110000Z
+DTSTART:20260305T080000Z
+SUMMARY:Torsdagsskytte
+UID:c427670d-36d8-40b7-a019-dc76ac1ce66e@c427.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8181/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14234/-/ipsc-traening
+DTEND:20260715T180000Z
+DTSTART:20260715T160000Z
+SUMMARY:IPSC-träning
+UID:65d7fa65-a221-4d82-aa95-1130c312894a@65d7.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14234/-/ipsc-traening
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8201/-/torsdagsskytte
+DTEND:20260723T100000Z
+DTSTART:20260723T070000Z
+SUMMARY:Torsdagsskytte
+UID:df2105fc-644f-45f4-b931-4ef0b334b041@df21.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8201/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14225/-/ipsc-traening
+DTEND:20260513T180000Z
+DTSTART:20260513T160000Z
+SUMMARY:IPSC-träning
+UID:809a796c-ddd7-4d9c-aa34-4b53fcc1dc6c@809a.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14225/-/ipsc-traening
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8222/-/torsdagsskytte
+DTEND:20261217T110000Z
+DTSTART:20261217T080000Z
+SUMMARY:Torsdagsskytte
+UID:9ec22d8f-2d3d-4224-96ef-b72fdfc7c063@9ec2.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8222/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14299/-/em-traening-ipsc
+DTEND:20260519T143000Z
+DTSTART:20260519T123000Z
+SUMMARY:EM-träning IPSC
+UID:61b5672e-4e91-4247-b8f9-5ff449ae69b0@61b5.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14299/-/em-traening-ipsc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14278/-/militaer-snabbmatch-krt
+DTEND:20260730T180000Z
+DTSTART:20260730T143000Z
+SUMMARY:Militär Snabbma
+UID:2e371ca4-0a74-4baf-b6c2-88c50720e03f@2e37.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14278/-/militaer-snabbmatch-krt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8202/-/torsdagsskytte
+DTEND:20260730T100000Z
+DTSTART:20260730T070000Z
+SUMMARY:Torsdagsskytte
+UID:dc13e8c1-89b9-4df4-833d-b648b0ecb3d8@dc13.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8202/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8213/-/torsdagsskytte
+DTEND:20261015T100000Z
+DTSTART:20261015T070000Z
+SUMMARY:Torsdagsskytte
+UID:e6233ce2-30fe-41cc-a176-65a3b10ab25a@e623.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8213/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8217/-/torsdagsskytte
+DTEND:20261112T110000Z
+DTSTART:20261112T080000Z
+SUMMARY:Torsdagsskytte
+UID:e9e6da51-5174-4c32-8320-3af4ff7ae956@e9e6.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8217/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14206/-/sponsorskytte
+DTEND:20260425T110000Z
+DTSTART:20260425T080000Z
+SUMMARY:Sponsorskytte
+UID:19aa6f73-a820-43c8-ba9c-136578b2eed2@19aa.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14206/-/sponsorskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8203/-/torsdagsskytte
+DTEND:20260806T100000Z
+DTSTART:20260806T070000Z
+SUMMARY:Torsdagsskytte
+UID:2420a775-7d52-4e35-8bf4-302621708371@2420.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8203/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14320/-/nyboerjarkurs-bps
+DTEND:20260825T180000Z
+DTSTART:20260825T160000Z
+SUMMARY:Nybörjarkurs BP
+UID:4864709c-443a-4ce3-a073-eac706bfee41@4864.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14320/-/nyboerjarkurs-bps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14240/-/ipsc-traening
+DTEND:20260826T180000Z
+DTSTART:20260826T160000Z
+SUMMARY:IPSC-träning
+UID:ce78b782-6314-4723-bf68-620d6d78ef2a@ce78.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14240/-/ipsc-traening
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14353/-/nyboerjarkurs-fok
+DTEND:20261007T180000Z
+DTSTART:20261007T160000Z
+SUMMARY:Nybörjarkurs FO
+UID:44f6bbd4-0cc1-48d4-acae-d8ecca1d0366@44f6.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14353/-/nyboerjarkurs-fok
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14303/-/nyboerjarkurs-bps
+DTEND:20260428T180000Z
+DTSTART:20260428T160000Z
+SUMMARY:Nybörjarkurs BP
+UID:31a33fe1-6b02-4132-b510-b6debdf11f3a@31a3.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14303/-/nyboerjarkurs-bps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14232/-/ipsc-traening
+DTEND:20260701T180000Z
+DTSTART:20260701T160000Z
+SUMMARY:IPSC-träning
+UID:7f8cc314-b190-40ea-9202-245a2ab2a969@7f8c.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14232/-/ipsc-traening
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14284/-/standardpistol
+DTEND:20260827T180000Z
+DTSTART:20260827T143000Z
+SUMMARY:Standardpistol
+UID:2999db6e-8d69-4ac4-86a8-efaba47dc057@2999.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14284/-/standardpistol
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14343/-/nyboerjarkurs-fok
+DTEND:20260729T180000Z
+DTSTART:20260729T160000Z
+SUMMARY:Nybörjarkurs FO
+UID:f06c1939-ca70-4a39-b738-11133fadb8a0@f06c.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14343/-/nyboerjarkurs-fok
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14285/-/precision-krt
+DTEND:20260831T180000Z
+DTSTART:20260831T143000Z
+SUMMARY:Precision KrT
+UID:91b99cb1-f3f5-405d-b265-4492adc0d316@91b9.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14285/-/precision-krt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14359/-/sm-traening-magnum
+DTEND:20260522T130000Z
+DTSTART:20260522T070000Z
+SUMMARY:SM-träning Magn
+UID:9667c99d-c977-4bca-9793-3fbc8da60cf3@9667.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14359/-/sm-traening-magnum
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14252/-/hemortens
+DTEND:20260605T160000Z
+DTSTART:20260605T130000Z
+SUMMARY:Hemortens
+UID:988da191-6c42-4407-ab1c-cf9b915766d1@988d.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14252/-/hemortens
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14340/-/nyboerjarkurs-fok
+DTEND:20260708T180000Z
+DTSTART:20260708T160000Z
+SUMMARY:Nybörjarkurs FO
+UID:fac8965f-2c2a-4a6d-a6bc-cb4504ccb430@fac8.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14340/-/nyboerjarkurs-fok
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14363/-/magnumtraening
+DTEND:20260607T110000Z
+DTSTART:20260607T070000Z
+SUMMARY:Magnumträning
+UID:e0ec237e-f44e-46a2-81f5-b6d225cc0595@e0ec.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14363/-/magnumtraening
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14283/-/militaer-snabbmatch-krt
+DTEND:20260820T180000Z
+DTSTART:20260820T143000Z
+SUMMARY:Militär Snabbma
+UID:c03fc822-7724-42a2-80fd-ee838a6518e4@c03f.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14283/-/militaer-snabbmatch-krt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14212/-/50m-bokad
+DTEND:20260713T150000Z
+DTSTART:20260713T070000Z
+SUMMARY:50m bokad
+UID:96d49b55-9e9c-4111-b33c-c1c22e84f028@96d4.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14212/-/50m-bokad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8710/-/antikrundan
+DTEND:20260422T110000Z
+DTSTART:20260422T080000Z
+SUMMARY:Antikrundan
+UID:d085d3c5-3bf9-4d23-9ed3-ea71d322cb46@d085.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8710/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14354/-/nyboerjarkurs-fok
+DTEND:20261014T180000Z
+DTSTART:20261014T160000Z
+SUMMARY:Nybörjarkurs FO
+UID:937beadf-6ed8-4f59-887b-3a10d8a3938e@937b.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14354/-/nyboerjarkurs-fok
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8185/-/torsdagsskytte
+DTEND:20260402T100000Z
+DTSTART:20260402T070000Z
+SUMMARY:Torsdagsskytte
+UID:e287d74b-ad03-482c-b59d-c6958fa58bd0@e287.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8185/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8708/-/antikrundan
+DTEND:20260408T110000Z
+DTSTART:20260408T080000Z
+SUMMARY:Antikrundan
+UID:2c0b640a-de70-469a-8953-2ba6495ac90a@2c0b.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8708/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14215/-/grundkurs-ipsc
+DTEND:20260410T150000Z
+DTSTART:20260410T070000Z
+SUMMARY:Grundkurs IPSC
+UID:632e9260-e03f-43b4-9548-c7c94ef700be@632e.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14215/-/grundkurs-ipsc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14268/-/korthallsgevaer
+DTEND:20260523T110000Z
+DTSTART:20260523T090000Z
+SUMMARY:Korthållsgevär
+UID:aadf5469-fcae-4d9c-bbbe-3100154405a5@aadf.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14268/-/korthallsgevaer
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8223/-/torsdagsskytte
+DTEND:20261224T110000Z
+DTSTART:20261224T080000Z
+SUMMARY:Torsdagsskytte
+UID:e6737850-b7bd-4d21-b10a-6e6439f08fe3@e673.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8223/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14308/-/nyboerjarkurs-bps
+DTEND:20260602T180000Z
+DTSTART:20260602T160000Z
+SUMMARY:Nybörjarkurs BP
+UID:61eb898c-bdd6-40d6-a5c7-f8af92b9f2e7@61eb.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14308/-/nyboerjarkurs-bps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14339/-/nyboerjarkurs-fok
+DTEND:20260701T180000Z
+DTSTART:20260701T160000Z
+SUMMARY:Nybörjarkurs FO
+UID:48a3c029-2054-4aa9-913f-c82d1d46efc8@48a3.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14339/-/nyboerjarkurs-fok
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8744/-/antikrundan
+DTEND:20261216T120000Z
+DTSTART:20261216T090000Z
+SUMMARY:Antikrundan
+UID:7bd6088d-4f82-4811-919b-62cce3fcdacc@7bd6.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8744/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14362/-/em-traening-ipsc
+DTEND:20260515T090000Z
+DTSTART:20260515T070000Z
+SUMMARY:EM-träning IPSC
+UID:caea8055-2dd6-4a75-b548-a46dc6423b9a@caea.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14362/-/em-traening-ipsc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14210/-/50m-bokad
+DTEND:20260708T150000Z
+DTSTART:20260708T070000Z
+SUMMARY:50m bokad
+UID:39d61d9b-fca2-4d8e-a898-6e12b4d51117@39d6.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14210/-/50m-bokad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8742/-/antikrundan
+DTEND:20261202T120000Z
+DTSTART:20261202T090000Z
+SUMMARY:Antikrundan
+UID:5f3a3d60-2b3b-4210-bb54-23dd1728c704@5f3a.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8742/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14254/-/precision-krt
+DTEND:20260413T180000Z
+DTSTART:20260413T143000Z
+SUMMARY:Precision KrT
+UID:928ac91d-2e4d-4769-9d48-0f8d1b3bc6a4@928a.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14254/-/precision-krt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14330/-/nyboerjarkurs-fok
+DTEND:20260429T180000Z
+DTSTART:20260429T160000Z
+SUMMARY:Nybörjarkurs FO
+UID:b4ba6e26-c336-4ade-947f-506851389212@b4ba.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14330/-/nyboerjarkurs-fok
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8730/-/antikrundan
+DTEND:20260909T110000Z
+DTSTART:20260909T080000Z
+SUMMARY:Antikrundan
+UID:6e0c30b0-6580-464a-960d-201e080af739@6e0c.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8730/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14265/-/knallen-nationell-precision
+DTEND:20260514T160000Z
+DTSTART:20260514T070000Z
+SUMMARY:Knallen (Nation
+UID:654a00b7-232d-492d-9fca-83aef924bcc4@654a.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14265/-/knallen-nationell-precision
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8716/-/antikrundan
+DTEND:20260603T110000Z
+DTSTART:20260603T080000Z
+SUMMARY:Antikrundan
+UID:0ac7d2e0-e435-45a7-8bd6-ac4ebfeef9e2@0ac7.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8716/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14346/-/nyboerjarkurs-fok
+DTEND:20260819T180000Z
+DTSTART:20260819T160000Z
+SUMMARY:Nybörjarkurs FO
+UID:4ee41e7e-0703-4423-97c1-9ec515844ccf@4ee4.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14346/-/nyboerjarkurs-fok
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8702/-/antikrundan
+DTEND:20260225T120000Z
+DTSTART:20260225T090000Z
+SUMMARY:Antikrundan
+UID:3f432afb-f2da-4f29-83e1-3a0644306ede@3f43.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8702/-/antikrundan
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8707/-/antikrundan
 DTEND:20260401T110000Z
 DTSTART:20260401T080000Z
 SUMMARY:Antikrundan
-UID:7d502ad4-4d57-4b95-a5fb-874f02521600@7d50.org
+UID:799970f6-fbee-414e-b701-0695b54d88a0@7999.org
 URL:https://borasps.se/index.php/kalender/handelsedetaljer/8707/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14351/-/nyboerjarkurs-fok
+DTEND:20260923T180000Z
+DTSTART:20260923T160000Z
+SUMMARY:Nybörjarkurs FO
+UID:8faad164-b52c-4948-a35a-c62a36017bd6@8faa.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14351/-/nyboerjarkurs-fok
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14224/-/ipsc-traening
+DTEND:20260506T180000Z
+DTSTART:20260506T160000Z
+SUMMARY:IPSC-träning
+UID:35dabf17-f1cc-4a30-918f-bd85fedbf1fb@35da.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14224/-/ipsc-traening
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8189/-/torsdagsskytte
+DTEND:20260430T100000Z
+DTSTART:20260430T070000Z
+SUMMARY:Torsdagsskytte
+UID:aac36139-884b-428b-b771-84f9b90ec38a@aac3.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8189/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8721/-/antikrundan
+DTEND:20260708T110000Z
+DTSTART:20260708T080000Z
+SUMMARY:Antikrundan
+UID:9e2f290c-d63f-467e-a82f-6f5a4e6cc5dd@9e2f.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8721/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8727/-/antikrundan
+DTEND:20260819T110000Z
+DTSTART:20260819T080000Z
+SUMMARY:Antikrundan
+UID:5c6b5f02-6cef-4128-abb1-f71dd7426e14@5c6b.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8727/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14333/-/nyboerjarkurs-fok
+DTEND:20260520T180000Z
+DTSTART:20260520T160000Z
+SUMMARY:Nybörjarkurs FO
+UID:92829011-e1ce-4143-a37f-e373c1336b8c@9282.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14333/-/nyboerjarkurs-fok
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8746/-/antikrundan
+DTEND:20261230T120000Z
+DTSTART:20261230T090000Z
+SUMMARY:Antikrundan
+UID:8556b490-5666-4d99-be6e-90a3307cfb8a@8556.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8746/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14328/-/nyboerjarkurs-bps
+DTEND:20261020T180000Z
+DTSTART:20261020T160000Z
+SUMMARY:Nybörjarkurs BP
+UID:dabfbb8d-2cd8-487b-a501-1e508aa585c4@dabf.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14328/-/nyboerjarkurs-bps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14244/-/ipsc-traening
+DTEND:20260923T180000Z
+DTSTART:20260923T160000Z
+SUMMARY:IPSC-träning
+UID:3f8ccda4-a936-4cb4-a40b-d3d3eef21816@3f8c.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14244/-/ipsc-traening
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8177/-/torsdagsskytte
+DTEND:20260205T110000Z
+DTSTART:20260205T080000Z
+SUMMARY:Torsdagsskytte
+UID:629904b4-6e0f-473c-892c-cd15a1acc57c@6299.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8177/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14255/-/militaer-snabbmatch-krt
+DTEND:20260416T180000Z
+DTSTART:20260416T143000Z
+SUMMARY:Militär Snabbma
+UID:95c5b6e0-7cf5-4c18-82c5-625f6cce448d@95c5.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14255/-/militaer-snabbmatch-krt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14310/-/nyboerjarkurs-bps
+DTEND:20260616T180000Z
+DTSTART:20260616T160000Z
+SUMMARY:Nybörjarkurs BP
+UID:8241ae36-070b-4834-8c71-8288906915fa@8241.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14310/-/nyboerjarkurs-bps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14306/-/nyboerjarkurs-bps
+DTEND:20260519T180000Z
+DTSTART:20260519T160000Z
+SUMMARY:Nybörjarkurs BP
+UID:465fe539-79fd-4d30-8e76-fee7d2d54a68@465f.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14306/-/nyboerjarkurs-bps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8194/-/torsdagsskytte
+DTEND:20260604T100000Z
+DTSTART:20260604T070000Z
+SUMMARY:Torsdagsskytte
+UID:aacc1014-f0b8-401d-9881-3afc5e43e3ec@aacc.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8194/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8196/-/torsdagsskytte
+DTEND:20260618T100000Z
+DTSTART:20260618T070000Z
+SUMMARY:Torsdagsskytte
+UID:ed8399b2-a554-4683-821e-7fa6095984dc@ed83.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8196/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8178/-/torsdagsskytte
+DTEND:20260212T110000Z
+DTSTART:20260212T080000Z
+SUMMARY:Torsdagsskytte
+UID:4d3f9dae-39ae-4d1e-bc3e-498cfa89d4de@4d3f.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8178/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14248/-/hemortens
+DTEND:20260508T160000Z
+DTSTART:20260508T130000Z
+SUMMARY:Hemortens
+UID:a2838dc3-8c93-43df-9a5c-91291a3de891@a283.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14248/-/hemortens
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14337/-/nyboerjarkurs-fok
+DTEND:20260617T180000Z
+DTSTART:20260617T160000Z
+SUMMARY:Nybörjarkurs FO
+UID:0a3de898-1417-4b4b-b33a-fe5357a75de5@0a3d.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14337/-/nyboerjarkurs-fok
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14213/-/50m-bokad
+DTEND:20260714T150000Z
+DTSTART:20260714T070000Z
+SUMMARY:50m bokad
+UID:49edca12-47c3-4eff-a3f6-e8917f10ccfd@49ed.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14213/-/50m-bokad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14243/-/ipsc-traening
+DTEND:20260916T180000Z
+DTSTART:20260916T160000Z
+SUMMARY:IPSC-träning
+UID:ad4b9f31-4e49-4f33-a692-3d2691f26a7f@ad4b.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14243/-/ipsc-traening
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8173/-/torsdagsskytte
+DTEND:20260108T110000Z
+DTSTART:20260108T080000Z
+SUMMARY:Torsdagsskytte
+UID:870b4a8f-06ed-402e-a1f7-caaeaad7e2bc@870b.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8173/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14344/-/nyboerjarkurs-fok
+DTEND:20260805T180000Z
+DTSTART:20260805T160000Z
+SUMMARY:Nybörjarkurs FO
+UID:6d1e7f3d-d192-40b9-976b-4553cb838711@6d1e.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14344/-/nyboerjarkurs-fok
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14290/-/magnumprecision-krt
+DTEND:20260919T130000Z
+DTSTART:20260919T070000Z
+SUMMARY:Magnumprecision
+UID:e168a062-377a-474a-a397-774887494a51@e168.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14290/-/magnumprecision-krt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8180/-/torsdagsskytte
+DTEND:20260226T110000Z
+DTSTART:20260226T080000Z
+SUMMARY:Torsdagsskytte
+UID:64714b74-bc04-43f5-a50b-9b6a807c2fe5@6471.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8180/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14216/-/grundkurs-ipsc
+DTEND:20260411T150000Z
+DTSTART:20260411T070000Z
+SUMMARY:Grundkurs IPSC
+UID:004b0f7e-a28e-4e49-9119-85e04b0ad038@004b.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14216/-/grundkurs-ipsc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14347/-/nyboerjarkurs-fok
+DTEND:20260826T180000Z
+DTSTART:20260826T160000Z
+SUMMARY:Nybörjarkurs FO
+UID:a101eb65-7218-40e3-82a9-f38ed7e75f72@a101.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14347/-/nyboerjarkurs-fok
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14366/-/magnumtraening
+DTEND:20260628T110000Z
+DTSTART:20260628T070000Z
+SUMMARY:Magnumträning
+UID:ebd2a461-c292-476d-a9e6-46bc208d18ab@ebd2.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14366/-/magnumtraening
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14281/-/standardpistol
+DTEND:20260813T180000Z
+DTSTART:20260813T143000Z
+SUMMARY:Standardpistol
+UID:e610dfe2-1e2d-40ff-b632-83b80e9c4870@e610.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14281/-/standardpistol
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8734/-/antikrundan
+DTEND:20261007T110000Z
+DTSTART:20261007T080000Z
+SUMMARY:Antikrundan
+UID:3e6419fc-d9de-4f89-8b92-2ead4611f3fa@3e64.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8734/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8715/-/antikrundan
+DTEND:20260527T110000Z
+DTSTART:20260527T080000Z
+SUMMARY:Antikrundan
+UID:19c43f7a-11d9-439e-9b10-726856ceb1e0@19c4.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8715/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14292/-/svartkrut-pistol-gevaer
+DTEND:20260926T130000Z
+DTSTART:20260926T070000Z
+SUMMARY:Svartkrut Pisto
+UID:51e68a9f-4962-453d-847b-be4c62b69953@51e6.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14292/-/svartkrut-pistol-gevaer
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14322/-/nyboerjarkurs-bps
+DTEND:20260908T180000Z
+DTSTART:20260908T160000Z
+SUMMARY:Nybörjarkurs BP
+UID:f4581a60-7f98-4b64-a5d7-b8ab8a5ec3dd@f458.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14322/-/nyboerjarkurs-bps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14256/-/magnumprecision-krt
+DTEND:20260418T130000Z
+DTSTART:20260418T070000Z
+SUMMARY:Magnumprecision
+UID:e1e7851c-9958-4f69-b627-92b06bef9f5c@e1e7.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14256/-/magnumprecision-krt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14342/-/nyboerjarkurs-fok
+DTEND:20260722T180000Z
+DTSTART:20260722T160000Z
+SUMMARY:Nybörjarkurs FO
+UID:5ff4e7e5-6426-439b-aa38-8fdd4b617058@5ff4.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14342/-/nyboerjarkurs-fok
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8714/-/antikrundan
+DTEND:20260520T110000Z
+DTSTART:20260520T080000Z
+SUMMARY:Antikrundan
+UID:c81d4c59-ccb0-404b-8e0b-5160e2540c7b@c81d.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8714/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14264/-/standardpistol
+DTEND:20260521T180000Z
+DTSTART:20260521T143000Z
+SUMMARY:Standardpistol
+UID:4b057488-9fd5-4e6f-a9c5-8b18280470f7@4b05.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14264/-/standardpistol
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14223/-/ipsc-traening
+DTEND:20260429T180000Z
+DTSTART:20260429T160000Z
+SUMMARY:IPSC-träning
+UID:c47d647f-867a-48d5-98cc-b97fefeb2f7b@c47d.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14223/-/ipsc-traening
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14251/-/hemortens
+DTEND:20260524T110000Z
+DTSTART:20260524T070000Z
+SUMMARY:Hemortens
+UID:8ecedd13-0085-4038-a544-df5dce4ca654@8ece.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14251/-/hemortens
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14242/-/ipsc-traening
+DTEND:20260909T180000Z
+DTSTART:20260909T160000Z
+SUMMARY:IPSC-träning
+UID:cb5beb91-c7f6-4a4b-84ad-f5184945e61d@cb5b.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14242/-/ipsc-traening
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8697/-/antikrundan
+DTEND:20260121T120000Z
+DTSTART:20260121T090000Z
+SUMMARY:Antikrundan
+UID:64c02001-f01b-4497-b8ca-72de245e1023@64c0.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8697/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8199/-/torsdagsskytte
+DTEND:20260709T100000Z
+DTSTART:20260709T070000Z
+SUMMARY:Torsdagsskytte
+UID:d93d1f2b-0125-40bb-a7e3-903c244bed36@d93d.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8199/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14304/-/nyboerjarkurs-bps
+DTEND:20260505T180000Z
+DTSTART:20260505T160000Z
+SUMMARY:Nybörjarkurs BP
+UID:cdab682a-7e7b-4b8a-b55e-26815249c0f3@cdab.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14304/-/nyboerjarkurs-bps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14270/-/magnumprecision-krt
+DTEND:20260530T130000Z
+DTSTART:20260530T070000Z
+SUMMARY:Magnumprecision
+UID:d8a71a80-62fd-43be-9bc6-c3bcee0d8d6d@d8a7.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14270/-/magnumprecision-krt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14323/-/nyboerjarkurs-bps
+DTEND:20260915T180000Z
+DTSTART:20260915T160000Z
+SUMMARY:Nybörjarkurs BP
+UID:ed3130ae-51c0-4d7d-91fd-3b14e0dcf1c8@ed31.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14323/-/nyboerjarkurs-bps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14276/-/faelt-krt
+DTEND:20260627T160000Z
+DTSTART:20260627T070000Z
+SUMMARY:Fält KrT
+UID:f3ff222c-34ad-4aaa-9488-a42038c264ec@f3ff.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14276/-/faelt-krt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14317/-/nyboerjarkurs-bps
+DTEND:20260804T180000Z
+DTSTART:20260804T160000Z
+SUMMARY:Nybörjarkurs BP
+UID:bb5ff29e-8bdb-4c06-8b70-ab30008e2faa@bb5f.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14317/-/nyboerjarkurs-bps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8728/-/antikrundan
+DTEND:20260826T110000Z
+DTSTART:20260826T080000Z
+SUMMARY:Antikrundan
+UID:de75f7eb-28e1-4270-ad79-c3809865b9ab@de75.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8728/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14360/-/sm-traening-magnum
+DTEND:20260524T130000Z
+DTSTART:20260524T070000Z
+SUMMARY:SM-träning Magn
+UID:ba97276b-7d7c-44e5-ad96-e598bcd76712@ba97.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14360/-/sm-traening-magnum
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8731/-/antikrundan
+DTEND:20260916T110000Z
+DTSTART:20260916T080000Z
+SUMMARY:Antikrundan
+UID:075280e3-4563-4e82-ab8c-20b8c671b84f@0752.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8731/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14207/-/arbetsdag
+DTEND:20260307T140000Z
+DTSTART:20260307T080000Z
+SUMMARY:Arbetsdag
+UID:6d43e3ca-8479-4e51-87fe-952bace4f0d3@6d43.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14207/-/arbetsdag
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14219/-/ipsc-traening
+DTEND:20260401T180000Z
+DTSTART:20260401T160000Z
+SUMMARY:IPSC-träning
+UID:50eac13e-3a2b-461f-bbeb-5c2bc46cf1f1@50ea.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14219/-/ipsc-traening
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14263/-/fripistol
+DTEND:20260511T100000Z
+DTSTART:20260511T070000Z
+SUMMARY:Fripistol
+UID:c4c32ee5-6d3b-4ccf-b54d-d144699a9880@c4c3.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14263/-/fripistol
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14321/-/nyboerjarkurs-bps
+DTEND:20260901T180000Z
+DTSTART:20260901T160000Z
+SUMMARY:Nybörjarkurs BP
+UID:b965636c-8b51-4ed7-8bdd-e68e5c6819ba@b965.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14321/-/nyboerjarkurs-bps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14228/-/ipsc-traening
+DTEND:20260603T180000Z
+DTSTART:20260603T160000Z
+SUMMARY:IPSC-träning
+UID:0e717e9e-9748-4153-af13-5b12d252cbd4@0e71.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14228/-/ipsc-traening
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14277/-/fripistol
+DTEND:20260725T100000Z
+DTSTART:20260725T070000Z
+SUMMARY:Fripistol
+UID:b42abdd3-ba44-4f44-bc7d-ab3ed849e127@b42a.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14277/-/fripistol
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14249/-/hemortens
+DTEND:20260518T180000Z
+DTSTART:20260518T143000Z
+SUMMARY:Hemortens
+UID:deb9cc26-aab8-4f59-85a4-14f9ad622f41@deb9.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14249/-/hemortens
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8741/-/antikrundan
+DTEND:20261125T120000Z
+DTSTART:20261125T090000Z
+SUMMARY:Antikrundan
+UID:edbc2c48-cd24-4643-b67c-21e42d9a6422@edbc.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8741/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8739/-/antikrundan
+DTEND:20261111T120000Z
+DTSTART:20261111T090000Z
+SUMMARY:Antikrundan
+UID:3a7da111-400c-4d46-81d9-b6bc90aa8c25@3a7d.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8739/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8729/-/antikrundan
+DTEND:20260902T110000Z
+DTSTART:20260902T080000Z
+SUMMARY:Antikrundan
+UID:a2e7d417-5242-4460-9e68-3fa0c8687290@a2e7.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8729/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14238/-/ipsc-traening
+DTEND:20260812T180000Z
+DTSTART:20260812T160000Z
+SUMMARY:IPSC-träning
+UID:4874a3cd-5cef-496d-a17b-e978c1c42f8a@4874.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14238/-/ipsc-traening
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8711/-/antikrundan
+DTEND:20260429T110000Z
+DTSTART:20260429T080000Z
+SUMMARY:Antikrundan
+UID:8e74ffc5-9b68-4fcd-a00a-b201bd7fb056@8e74.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8711/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14341/-/nyboerjarkurs-fok
+DTEND:20260715T180000Z
+DTSTART:20260715T160000Z
+SUMMARY:Nybörjarkurs FO
+UID:317cbe92-26a7-430f-a285-656a1cb4341f@317c.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14341/-/nyboerjarkurs-fok
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14287/-/korthallsgevaer
+DTEND:20260829T110000Z
+DTSTART:20260829T090000Z
+SUMMARY:Korthållsgevär
+UID:c6e866d6-2c80-44f9-ab8f-fb83d2efd768@c6e8.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14287/-/korthallsgevaer
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8212/-/torsdagsskytte
+DTEND:20261008T100000Z
+DTSTART:20261008T070000Z
+SUMMARY:Torsdagsskytte
+UID:c27e3a6b-47fc-4819-9fef-4093218876bc@c27e.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8212/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14229/-/ipsc-traening
+DTEND:20260610T180000Z
+DTSTART:20260610T160000Z
+SUMMARY:IPSC-träning
+UID:0d563e25-8ad3-4798-8311-646888013dfd@0d56.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14229/-/ipsc-traening
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8182/-/torsdagsskytte
+DTEND:20260312T110000Z
+DTSTART:20260312T080000Z
+SUMMARY:Torsdagsskytte
+UID:cd3b3fbc-f063-4ae3-b5eb-18fc4d31b890@cd3b.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8182/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14331/-/nyboerjarkurs-fok
+DTEND:20260506T180000Z
+DTSTART:20260506T160000Z
+SUMMARY:Nybörjarkurs FO
+UID:2dc58232-4fe6-4366-9b3d-ec4cc90268a7@2dc5.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14331/-/nyboerjarkurs-fok
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14288/-/korthallsgevaer
+DTEND:20260907T180000Z
+DTSTART:20260907T160000Z
+SUMMARY:Korthållsgevär
+UID:b329645c-c208-47e5-9e0f-4618515589f1@b329.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14288/-/korthallsgevaer
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14301/-/em-traening-ipsc
+DTEND:20260529T110000Z
+DTSTART:20260529T070000Z
+SUMMARY:EM-träning IPSC
+UID:9cdffab7-153f-4c66-b99c-38a237aa3bf6@9cdf.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14301/-/em-traening-ipsc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14315/-/nyboerjarkurs-bps
+DTEND:20260721T180000Z
+DTSTART:20260721T160000Z
+SUMMARY:Nybörjarkurs BP
+UID:6d40d929-c793-472f-83ac-8fb2838467da@6d40.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14315/-/nyboerjarkurs-bps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14355/-/nyboerjarkurs-fok
+DTEND:20261021T180000Z
+DTSTART:20261021T160000Z
+SUMMARY:Nybörjarkurs FO
+UID:0acca949-e2d7-4fa6-92f2-d9b02fa01857@0acc.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14355/-/nyboerjarkurs-fok
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8198/-/torsdagsskytte
+DTEND:20260702T100000Z
+DTSTART:20260702T070000Z
+SUMMARY:Torsdagsskytte
+UID:6a1aaa8f-e683-4bfc-8ec3-b302708585d5@6a1a.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8198/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14334/-/nyboerjarkurs-fok
+DTEND:20260527T180000Z
+DTSTART:20260527T160000Z
+SUMMARY:Nybörjarkurs FO
+UID:00accab3-a67f-4f60-af7d-1cf6161c74e4@00ac.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14334/-/nyboerjarkurs-fok
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14275/-/precision-krt
+DTEND:20260615T180000Z
+DTSTART:20260615T143000Z
+SUMMARY:Precision KrT
+UID:9b4eedd2-9592-42a3-afe9-678add58c81e@9b4e.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14275/-/precision-krt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14245/-/ipsc-traening
+DTEND:20260930T180000Z
+DTSTART:20260930T160000Z
+SUMMARY:IPSC-träning
+UID:70012474-f217-4d14-8b9f-8c4480bf6d30@7001.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14245/-/ipsc-traening
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14258/-/grov-sportpistol
+DTEND:20260423T180000Z
+DTSTART:20260423T143000Z
+SUMMARY:Grov-/Sportpist
+UID:70eed438-57cb-4c5b-b08c-8279db17ccc0@70ee.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14258/-/grov-sportpistol
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14272/-/militaer-snabbmatch-krt
+DTEND:20260604T180000Z
+DTSTART:20260604T143000Z
+SUMMARY:Militär Snabbma
+UID:21ff16ba-1b72-40db-a995-8bee81a59035@21ff.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14272/-/militaer-snabbmatch-krt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8735/-/antikrundan
+DTEND:20261014T110000Z
+DTSTART:20261014T080000Z
+SUMMARY:Antikrundan
+UID:1ee780b9-a919-4c38-832a-afcce850893d@1ee7.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8735/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8696/-/antikrundan
+DTEND:20260114T120000Z
+DTSTART:20260114T090000Z
+SUMMARY:Antikrundan
+UID:0a7d9bd2-4e2b-4155-b386-ef0ea978d4c3@0a7d.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8696/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8712/-/antikrundan
+DTEND:20260506T110000Z
+DTSTART:20260506T080000Z
+SUMMARY:Antikrundan
+UID:cdb0cb07-78e4-479c-b740-e80fad0dc1cd@cdb0.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8712/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14336/-/nyboerjarkurs-fok
+DTEND:20260610T180000Z
+DTSTART:20260610T160000Z
+SUMMARY:Nybörjarkurs FO
+UID:0810e455-bc2f-42a7-83e9-724e33e318e0@0810.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14336/-/nyboerjarkurs-fok
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14350/-/nyboerjarkurs-fok
+DTEND:20260916T180000Z
+DTSTART:20260916T160000Z
+SUMMARY:Nybörjarkurs FO
+UID:dde1dd91-908f-4342-93cb-b82283d11fc8@dde1.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14350/-/nyboerjarkurs-fok
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14253/-/banlaeggarutbildning-faelt
+DTEND:20260426T130000Z
+DTSTART:20260426T070000Z
+SUMMARY:Banläggarutbild
+UID:07cc6a36-e41d-49a9-8c5c-916803102536@07cc.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14253/-/banlaeggarutbildning-faelt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8732/-/antikrundan
+DTEND:20260923T110000Z
+DTSTART:20260923T080000Z
+SUMMARY:Antikrundan
+UID:7fc328ff-aa1f-4920-9167-4d7b82eb4be6@7fc3.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8732/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14247/-/hemortens
+DTEND:20260504T180000Z
+DTSTART:20260504T140000Z
+SUMMARY:Hemortens
+UID:7cde1059-c335-4f3a-b98a-01adb4ea5f7d@7cde.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14247/-/hemortens
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14246/-/riflekurs
+DTEND:20260405T150000Z
+DTSTART:20260405T070000Z
+SUMMARY:Riflekurs
+UID:800e0fa2-6ea2-45c8-acd2-4c5c134c212e@800e.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14246/-/riflekurs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14235/-/ipsc-traening
+DTEND:20260722T180000Z
+DTSTART:20260722T160000Z
+SUMMARY:IPSC-träning
+UID:9a36f85b-2baf-4ddd-8927-daee59b6c133@9a36.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14235/-/ipsc-traening
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8218/-/torsdagsskytte
+DTEND:20261119T110000Z
+DTSTART:20261119T080000Z
+SUMMARY:Torsdagsskytte
+UID:5910b0ff-3369-4fa9-9342-276ac75250bc@5910.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8218/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8204/-/torsdagsskytte
+DTEND:20260813T100000Z
+DTSTART:20260813T070000Z
+SUMMARY:Torsdagsskytte
+UID:68930396-71f4-4f64-986a-87d2f2da810a@6893.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8204/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14261/-/militaer-snabbmatch-krt
+DTEND:20260430T180000Z
+DTSTART:20260430T143000Z
+SUMMARY:Militär Snabbma
+UID:169a18f3-bc94-4e77-a415-854f4a8483f9@169a.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14261/-/militaer-snabbmatch-krt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8719/-/antikrundan
+DTEND:20260624T110000Z
+DTSTART:20260624T080000Z
+SUMMARY:Antikrundan
+UID:4ac3806b-3dc0-42a3-b0f2-8a7eccaed92c@4ac3.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8719/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14291/-/precision-krt
+DTEND:20260921T180000Z
+DTSTART:20260921T143000Z
+SUMMARY:Precision KrT
+UID:21a0ab41-e935-43d7-883d-fa25a1cf8d23@21a0.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14291/-/precision-krt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8713/-/antikrundan
+DTEND:20260513T110000Z
+DTSTART:20260513T080000Z
+SUMMARY:Antikrundan
+UID:6bc5ae58-6f71-445e-aa5a-f90e41d47cb7@6bc5.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8713/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8214/-/torsdagsskytte
+DTEND:20261022T100000Z
+DTSTART:20261022T070000Z
+SUMMARY:Torsdagsskytte
+UID:fbd880dc-20ba-4ace-b785-c60a2005bdd3@fbd8.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8214/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8186/-/torsdagsskytte
+DTEND:20260409T100000Z
+DTSTART:20260409T070000Z
+SUMMARY:Torsdagsskytte
+UID:cb8e01a0-41a9-4cd8-9b80-da519fccbdcc@cb8e.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8186/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14273/-/fripistol
+DTEND:20260606T100000Z
+DTSTART:20260606T070000Z
+SUMMARY:Fripistol
+UID:87c1ce7b-a838-42a8-87ea-bda0cba5ec20@87c1.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14273/-/fripistol
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14318/-/nyboerjarkurs-bps
+DTEND:20260811T180000Z
+DTSTART:20260811T160000Z
+SUMMARY:Nybörjarkurs BP
+UID:69986d0f-e606-4984-a1de-d8807f1fa33e@6998.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14318/-/nyboerjarkurs-bps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14205/-/sponsorskytte
+DTEND:20260320T180000Z
+DTSTART:20260320T150000Z
+SUMMARY:Sponsorskytte
+UID:19fad230-54a3-46a4-9b80-b1e3fed5b1a6@19fa.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14205/-/sponsorskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8206/-/torsdagsskytte
+DTEND:20260827T100000Z
+DTSTART:20260827T070000Z
+SUMMARY:Torsdagsskytte
+UID:ff781cfb-b9b4-45a2-b432-e034f4440b5f@ff78.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8206/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8195/-/torsdagsskytte
+DTEND:20260611T100000Z
+DTSTART:20260611T070000Z
+SUMMARY:Torsdagsskytte
+UID:4afe6138-f8ef-447a-aa2f-9c76668ff7d9@4afe.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8195/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14348/-/nyboerjarkurs-fok
+DTEND:20260902T180000Z
+DTSTART:20260902T160000Z
+SUMMARY:Nybörjarkurs FO
+UID:fbed56e4-b035-49d9-84b4-571d22148c64@fbed.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14348/-/nyboerjarkurs-fok
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8722/-/antikrundan
+DTEND:20260715T110000Z
+DTSTART:20260715T080000Z
+SUMMARY:Antikrundan
+UID:5dd247f9-5ae1-4c47-89a7-2657c42a0a8f@5dd2.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8722/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8723/-/antikrundan
+DTEND:20260722T110000Z
+DTSTART:20260722T080000Z
+SUMMARY:Antikrundan
+UID:772cff24-10bd-4dc6-b086-e797bb4d0c55@772c.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8723/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8743/-/antikrundan
+DTEND:20261209T120000Z
+DTSTART:20261209T090000Z
+SUMMARY:Antikrundan
+UID:f95539e7-4561-4a56-b4b8-77b03a38720e@f955.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8743/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8207/-/torsdagsskytte
+DTEND:20260903T100000Z
+DTSTART:20260903T070000Z
+SUMMARY:Torsdagsskytte
+UID:d518b662-0a20-4d9d-a44e-04578a4fac0b@d518.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8207/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14239/-/ipsc-traening
+DTEND:20260819T180000Z
+DTSTART:20260819T160000Z
+SUMMARY:IPSC-träning
+UID:87e484c0-8dfa-4b48-8146-41d5a960e72a@87e4.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14239/-/ipsc-traening
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14349/-/nyboerjarkurs-fok
+DTEND:20260909T180000Z
+DTSTART:20260909T160000Z
+SUMMARY:Nybörjarkurs FO
+UID:e0d8278d-39fb-4673-a555-347e4ffb1522@e0d8.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14349/-/nyboerjarkurs-fok
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8706/-/antikrundan
+DTEND:20260325T120000Z
+DTSTART:20260325T090000Z
+SUMMARY:Antikrundan
+UID:9d2c1e9a-1e1d-4fab-80e8-421d4eb9465b@9d2c.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8706/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8175/-/torsdagsskytte
+DTEND:20260122T110000Z
+DTSTART:20260122T080000Z
+SUMMARY:Torsdagsskytte
+UID:d825c9e6-9412-4984-b1d3-3b7492776160@d825.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8175/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14266/-/fripistol
+DTEND:20260516T100000Z
+DTSTART:20260516T070000Z
+SUMMARY:Fripistol
+UID:63d7e2da-d39b-48f7-994e-fa44c378d258@63d7.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14266/-/fripistol
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14271/-/grov-sportpistol
+DTEND:20260601T180000Z
+DTSTART:20260601T143000Z
+SUMMARY:Grov-/Sportpist
+UID:f2fce491-08a3-41dd-85ed-e231bcb12117@f2fc.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14271/-/grov-sportpistol
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14231/-/ipsc-traening
+DTEND:20260624T180000Z
+DTSTART:20260624T160000Z
+SUMMARY:IPSC-träning
+UID:caa3e4c6-cbdc-4f1a-9650-37ff82523103@caa3.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14231/-/ipsc-traening
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8704/-/antikrundan
+DTEND:20260311T120000Z
+DTSTART:20260311T090000Z
+SUMMARY:Antikrundan
+UID:c3fdbeff-ffdc-4cb1-a36f-771c067947cf@c3fd.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8704/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8736/-/antikrundan
+DTEND:20261021T110000Z
+DTSTART:20261021T080000Z
+SUMMARY:Antikrundan
+UID:a307ed2f-3ad8-4d31-9ae6-b272e941f8bb@a307.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8736/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14361/-/sm-traening-magnum
+DTEND:20260525T130000Z
+DTSTART:20260525T070000Z
+SUMMARY:SM-träning Magn
+UID:7edc8555-1ecc-42d7-8b38-a450724e6373@7edc.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14361/-/sm-traening-magnum
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8738/-/antikrundan
+DTEND:20261104T120000Z
+DTSTART:20261104T090000Z
+SUMMARY:Antikrundan
+UID:cc982ed4-cfd4-4854-a306-025d0eab117e@cc98.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8738/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14307/-/nyboerjarkurs-bps
+DTEND:20260526T180000Z
+DTSTART:20260526T160000Z
+SUMMARY:Nybörjarkurs BP
+UID:8bbe79c1-09c3-4c4e-b9fd-0584858346b1@8bbe.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14307/-/nyboerjarkurs-bps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14327/-/nyboerjarkurs-bps
+DTEND:20261013T180000Z
+DTSTART:20261013T160000Z
+SUMMARY:Nybörjarkurs BP
+UID:bae0ff51-6c9f-49d4-8230-c757fa1b3bd7@bae0.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14327/-/nyboerjarkurs-bps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8205/-/torsdagsskytte
+DTEND:20260820T100000Z
+DTSTART:20260820T070000Z
+SUMMARY:Torsdagsskytte
+UID:59283130-3978-4bcd-a405-ab545cbc9c05@5928.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8205/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8176/-/torsdagsskytte
+DTEND:20260129T110000Z
+DTSTART:20260129T080000Z
+SUMMARY:Torsdagsskytte
+UID:9953b3bd-825b-4303-ac84-f3076a5a2a15@9953.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8176/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14236/-/ipsc-traening
+DTEND:20260729T180000Z
+DTSTART:20260729T160000Z
+SUMMARY:IPSC-träning
+UID:6c6a2501-a5f5-4b64-be1b-55f4a85e288a@6c6a.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14236/-/ipsc-traening
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14241/-/ipsc-traening
+DTEND:20260902T180000Z
+DTSTART:20260902T160000Z
+SUMMARY:IPSC-träning
+UID:4e580753-0a7c-4f57-ae7b-2eb9b76087d8@4e58.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14241/-/ipsc-traening
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14329/-/nyboerjarkurs-bps
+DTEND:20261027T190000Z
+DTSTART:20261027T170000Z
+SUMMARY:Nybörjarkurs BP
+UID:3158b1f1-7b68-49ba-804c-0d81ba78c82c@3158.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14329/-/nyboerjarkurs-bps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8720/-/antikrundan
+DTEND:20260701T110000Z
+DTSTART:20260701T080000Z
+SUMMARY:Antikrundan
+UID:1cc67e6b-19c9-43a7-8486-0e58a8b8eb66@1cc6.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8720/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14324/-/nyboerjarkurs-bps
+DTEND:20260922T180000Z
+DTSTART:20260922T160000Z
+SUMMARY:Nybörjarkurs BP
+UID:7bb04f22-5ec3-4915-a214-4c05daddd307@7bb0.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14324/-/nyboerjarkurs-bps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8210/-/torsdagsskytte
+DTEND:20260924T100000Z
+DTSTART:20260924T070000Z
+SUMMARY:Torsdagsskytte
+UID:4ab6cc79-1ec5-49bb-9f6b-204e4aa84e24@4ab6.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8210/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14257/-/hj-krt
+DTEND:20260420T180000Z
+DTSTART:20260420T160000Z
+SUMMARY:HJ KrT
+UID:08a0b735-cb9f-44a3-847f-455ec0a4df73@08a0.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14257/-/hj-krt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14209/-/50m-bokad
+DTEND:20260707T150000Z
+DTSTART:20260707T070000Z
+SUMMARY:50m bokad
+UID:24f2ecd3-1822-4ace-885c-f007ecc43ddc@24f2.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14209/-/50m-bokad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14356/-/nyboerjarkurs-fok
+DTEND:20261028T190000Z
+DTSTART:20261028T170000Z
+SUMMARY:Nybörjarkurs FO
+UID:6ac1dc6a-d640-48d3-8aee-aee18196791c@6ac1.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14356/-/nyboerjarkurs-fok
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14220/-/ipsc-traening
+DTEND:20260408T180000Z
+DTSTART:20260408T160000Z
+SUMMARY:IPSC-träning
+UID:e143605d-b76a-4b27-b08b-74f365f7c6ba@e143.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14220/-/ipsc-traening
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8193/-/torsdagsskytte
+DTEND:20260528T100000Z
+DTSTART:20260528T070000Z
+SUMMARY:Torsdagsskytte
+UID:646c3729-a669-417d-a5ff-bf84c707ba44@646c.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8193/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14338/-/nyboerjarkurs-fok
+DTEND:20260624T180000Z
+DTSTART:20260624T160000Z
+SUMMARY:Nybörjarkurs FO
+UID:8e437e3b-e412-486f-b647-123a1b3b6041@8e43.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14338/-/nyboerjarkurs-fok
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8740/-/antikrundan
+DTEND:20261118T120000Z
+DTSTART:20261118T090000Z
+SUMMARY:Antikrundan
+UID:c42a052c-46b5-470b-b48e-664a9365478f@c42a.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8740/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14267/-/gevaerfaelt
+DTEND:20260523T090000Z
+DTSTART:20260523T070000Z
+SUMMARY:Gevärfält
+UID:90a6d836-603f-400a-9a2c-f598600e20f1@90a6.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14267/-/gevaerfaelt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8197/-/torsdagsskytte
+DTEND:20260625T100000Z
+DTSTART:20260625T070000Z
+SUMMARY:Torsdagsskytte
+UID:1428ec92-a96c-469e-b665-f0320972c160@1428.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8197/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14332/-/nyboerjarkurs-fok
+DTEND:20260513T180000Z
+DTSTART:20260513T160000Z
+SUMMARY:Nybörjarkurs FO
+UID:285b78e5-4c85-40d2-8538-9227cc617309@285b.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14332/-/nyboerjarkurs-fok
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14312/-/nyboerjarkurs-bps
+DTEND:20260630T180000Z
+DTSTART:20260630T160000Z
+SUMMARY:Nybörjarkurs BP
+UID:55b4aceb-005f-4076-968d-cae32c5afc06@55b4.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14312/-/nyboerjarkurs-bps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14217/-/grundkurs-ipsc
+DTEND:20260412T150000Z
+DTSTART:20260412T070000Z
+SUMMARY:Grundkurs IPSC
+UID:42bac568-c4af-4474-b8ae-cd54633befd1@42ba.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14217/-/grundkurs-ipsc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14221/-/ipsc-traening
+DTEND:20260415T180000Z
+DTSTART:20260415T160000Z
+SUMMARY:IPSC-träning
+UID:5316f853-e463-44c2-b649-6192a79fe3a5@5316.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14221/-/ipsc-traening
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14311/-/nyboerjarkurs-bps
+DTEND:20260623T180000Z
+DTSTART:20260623T160000Z
+SUMMARY:Nybörjarkurs BP
+UID:4b1dd2a1-5f6c-4178-bca1-ed298d735584@4b1d.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14311/-/nyboerjarkurs-bps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8725/-/antikrundan
+DTEND:20260805T110000Z
+DTSTART:20260805T080000Z
+SUMMARY:Antikrundan
+UID:b0ab6f7c-8d56-4ab6-8407-249be797d0d7@b0ab.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8725/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8709/-/antikrundan
+DTEND:20260415T110000Z
+DTSTART:20260415T080000Z
+SUMMARY:Antikrundan
+UID:ddd2b355-4e0e-4abc-9ed4-650945fb3f29@ddd2.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8709/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8190/-/torsdagsskytte
+DTEND:20260507T100000Z
+DTSTART:20260507T070000Z
+SUMMARY:Torsdagsskytte
+UID:115d1823-1b6f-4b87-93ce-3e2e3fad2aa9@115d.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8190/-/torsdagsskytte
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14325/-/nyboerjarkurs-bps
+DTEND:20260929T180000Z
+DTSTART:20260929T160000Z
+SUMMARY:Nybörjarkurs BP
+UID:973b8457-e80b-4f59-8f08-bdf50d7407d7@973b.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14325/-/nyboerjarkurs-bps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14335/-/nyboerjarkurs-fok
+DTEND:20260603T180000Z
+DTSTART:20260603T160000Z
+SUMMARY:Nybörjarkurs FO
+UID:5945c9eb-35e0-43ff-943b-26443384f705@5945.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14335/-/nyboerjarkurs-fok
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14262/-/hj-krt
+DTEND:20260511T180000Z
+DTSTART:20260511T160000Z
+SUMMARY:HJ KrT
+UID:2086440d-cefe-4267-9c96-4eaec3e959c9@2086.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14262/-/hj-krt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8200/-/torsdagsskytte
+DTEND:20260716T100000Z
+DTSTART:20260716T070000Z
+SUMMARY:Torsdagsskytte
+UID:497895cf-8411-49a4-be66-772859edfd5f@4978.org
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8200/-/torsdagsskytte
 END:VEVENT
 END:VCALENDAR
