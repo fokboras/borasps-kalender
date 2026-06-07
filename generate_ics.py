@@ -22,7 +22,6 @@ months_sv = {
 }
 
 def parse_date(text):
-    # Datum med start- och sluttid
     m = re.search(
         r"(\d{1,2})\s+([A-Za-zÅÄÖåäö]+)\s+(\d{4}),\s*(\d{2}:\d{2})\s*-\s*(\d{2}:\d{2})",
         text
@@ -31,7 +30,6 @@ def parse_date(text):
     if m:
         day, month_name, year, start_time, end_time = m.groups()
     else:
-        # Datum med bara starttid
         m = re.search(
             r"(\d{1,2})\s+([A-Za-zÅÄÖåäö]+)\s+(\d{4}),\s*(\d{2}:\d{2})",
             text
@@ -63,15 +61,20 @@ def parse_date(text):
 
     return start, end
 
-def get_full_title(detail_soup, fallback_title):
-    # Försök hämta full rubrik från händelsesidan
-    for h in detail_soup.find_all(["h1", "h2", "h3"]):
-        txt = h.get_text(" ", strip=True)
+def title_from_url(event_url, fallback_title):
+    slug = event_url.rstrip("/").split("/")[-1]
 
-        if txt and len(txt) > 3:
-            return txt.strip()
+    if slug and slug != "-":
+        title = slug.replace("-", " ")
 
-    # Fallback: använd rubriken från månadsvyn
+        title = title.replace("traening", "träning")
+        title = title.replace("soendag", "söndag")
+        title = title.replace("oe", "ö")
+        title = title.replace("ae", "ä")
+        title = title.replace("aa", "å")
+
+        return title.title().replace("Sm ", "SM ").replace("Ipsc", "IPSC")
+
     title = fallback_title
     title = re.sub(r"^\d{2}:\d{2}\s*", "", title)
     title = title.replace("...", "").strip()
@@ -104,7 +107,7 @@ for month in MONTHS:
             continue
 
         fallback_title = a.get_text(" ", strip=True)
-        title = get_full_title(detail_soup, fallback_title)
+        title = title_from_url(event_url, fallback_title)
 
         unique_key = f"{event_url}|{title}|{start.isoformat()}|{end.isoformat()}"
 
