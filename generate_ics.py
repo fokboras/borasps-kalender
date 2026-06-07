@@ -63,6 +63,21 @@ def parse_date(text):
 
     return start, end
 
+def get_full_title(detail_soup, fallback_title):
+    # Försök hämta full rubrik från händelsesidan
+    for h in detail_soup.find_all(["h1", "h2", "h3"]):
+        txt = h.get_text(" ", strip=True)
+
+        if txt and len(txt) > 3:
+            return txt.strip()
+
+    # Fallback: använd rubriken från månadsvyn
+    title = fallback_title
+    title = re.sub(r"^\d{2}:\d{2}\s*", "", title)
+    title = title.replace("...", "").strip()
+
+    return title
+
 for month in MONTHS:
     url = f"{BASE}/index.php/kalender/manadskalender/{YEAR}/{month}/-"
     print("Läser:", url)
@@ -88,9 +103,8 @@ for month in MONTHS:
             print("Hoppar över, kunde inte tolka datum:", event_url)
             continue
 
-        title = a.get_text(" ", strip=True)
-        title = re.sub(r"^\d{2}:\d{2}\s*", "", title)
-        title = title.replace("...", "").strip()
+        fallback_title = a.get_text(" ", strip=True)
+        title = get_full_title(detail_soup, fallback_title)
 
         unique_key = f"{event_url}|{title}|{start.isoformat()}|{end.isoformat()}"
 
