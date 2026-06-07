@@ -1,9 +1,9 @@
+from zoneinfo import ZoneInfo
 import requests
 from bs4 import BeautifulSoup
 from ics import Calendar, Event
 from datetime import datetime
 from urllib.parse import urljoin
-from zoneinfo import ZoneInfo
 import re
 
 BASE = "https://borasps.se"
