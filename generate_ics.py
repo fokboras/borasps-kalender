@@ -1,14 +1,15 @@
-from zoneinfo import ZoneInfo
 import requests
 from bs4 import BeautifulSoup
 from ics import Calendar, Event
 from datetime import datetime
+from zoneinfo import ZoneInfo
 from urllib.parse import urljoin
 import re
 
 BASE = "https://borasps.se"
 YEAR = 2026
 MONTHS = range(1, 13)
+TZ = ZoneInfo("Europe/Stockholm")
 
 cal = Calendar()
 seen = set()
@@ -24,27 +25,32 @@ def parse_date(text):
         r"(\d{1,2})\s+([A-Za-zÅÄÖåäö]+)\s+(\d{4}),\s*(\d{2}:\d{2})\s*-\s*(\d{2}:\d{2})",
         text
     )
+
     if not m:
         return None, None
 
     day, month_name, year, start_time, end_time = m.groups()
-    month = months_sv[month_name.lower()]
+    month = months_sv.get(month_name.lower())
 
-    tz = ZoneInfo("Europe/Stockholm")
+    if not month:
+        return None, None
 
-start = datetime.strptime(
-    f"{year}-{month}-{day} {start_time}",
-    "%Y-%m-%d %H:%M"
-).replace(tzinfo=tz)
+    start = datetime.strptime(
+        f"{year}-{month}-{day} {start_time}",
+        "%Y-%m-%d %H:%M"
+    ).replace(tzinfo=TZ)
 
-end = datetime.strptime(
-    f"{year}-{month}-{day} {end_time}",
-    "%Y-%m-%d %H:%M"
-).replace(tzinfo=tz)
+    end = datetime.strptime(
+        f"{year}-{month}-{day} {end_time}",
+        "%Y-%m-%d %H:%M"
+    ).replace(tzinfo=TZ)
+
     return start, end
 
 for month in MONTHS:
     url = f"{BASE}/index.php/kalender/manadskalender/{YEAR}/{month}/-"
+    print("Läser:", url)
+
     html = requests.get(url, timeout=20).text
     soup = BeautifulSoup(html, "html.parser")
 
@@ -68,7 +74,7 @@ for month in MONTHS:
         start, end = parse_date(detail_text)
 
         if not start or not end:
-            print("Missade datum:", event_url)
+            print("Hoppar över, kunde inte tolka datum:", event_url)
             continue
 
         title = a.get_text(" ", strip=True)
