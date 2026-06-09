@@ -330,14 +330,6 @@ UID:23c24c14575a6d6872c6c03401d57a4f@borasps-kalender
 URL:https://borasps.se/index.php/kalender/handelsedetaljer/8194/-/torsdagsskytte
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8195/-/torsdagsskytte
-DTEND:20260611T100000Z
-DTSTART:20260611T070000Z
-SUMMARY:Torsdagsskytte
-UID:0f1b18bb078f4f49b7b50d3a35377cda@borasps-kalender
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8195/-/torsdagsskytte
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8200/-/torsdagsskytte
 DTEND:20260716T100000Z
 DTSTART:20260716T070000Z
@@ -616,6 +608,14 @@ DTSTART:20260423T143000Z
 SUMMARY:Grov Sportpistol
 UID:79663bf89d1a2e8568cedb2733d94133@borasps-kalender
 URL:https://borasps.se/index.php/kalender/handelsedetaljer/14258/-/grov-sportpistol
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14368/-/skjutfoerbud-25-50m-plattsaettning
+DTEND:20260611T140000Z
+DTSTART:20260611T050000Z
+SUMMARY:Skjutförbud 25 50M Plattsättning
+UID:029ac6b2ef0ddde18b29b7c42331a977@borasps-kalender
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14368/-/skjutfoerbud-25-50m-plattsaettning
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8215/-/torsdagsskytte
