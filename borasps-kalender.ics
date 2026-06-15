@@ -1650,6 +1650,14 @@ UID:f40f361f429edeb125e2e844dca44285@borasps-kalender
 URL:https://borasps.se/index.php/kalender/handelsedetaljer/14357/-/50m-bokad
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14369/-/50m-bokad
+DTEND:20260617T140000Z
+DTSTART:20260617T070000Z
+SUMMARY:50M Bokad
+UID:afb14b9c58958504e4bb7de000cdbe92@borasps-kalender
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14369/-/50m-bokad
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8207/-/torsdagsskytte
 DTEND:20260903T100000Z
 DTSTART:20260903T070000Z
