@@ -922,6 +922,14 @@ UID:368632c230adf6cfdfb0179dc9ce55c6@borasps-kalender
 URL:https://borasps.se/index.php/kalender/handelsedetaljer/8702/-/antikrundan
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14210/-/50m-bokad
+DTEND:20260708T160000Z
+DTSTART:20260708T070000Z
+SUMMARY:50M Bokad
+UID:04c762a041764062f386ee7bb1794681@borasps-kalender
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14210/-/50m-bokad
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8206/-/torsdagsskytte
 DTEND:20260827T100000Z
 DTSTART:20260827T070000Z
@@ -992,14 +1000,6 @@ DTSTART:20260715T160000Z
 SUMMARY:Nybörjarkurs Fok
 UID:2b08f3cbd14a015e9e876ca2f0e447b3@borasps-kalender
 URL:https://borasps.se/index.php/kalender/handelsedetaljer/14341/-/nyboerjarkurs-fok
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14210/-/50m-bokad
-DTEND:20260708T150000Z
-DTSTART:20260708T070000Z
-SUMMARY:50M Bokad
-UID:fe53aa15da1590c3969f71ee8d29c357@borasps-kalender
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14210/-/50m-bokad
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8210/-/torsdagsskytte
