@@ -178,6 +178,14 @@ UID:2b816e1227ef9a32295c46241aa28118@borasps-kalender
 URL:https://borasps.se/index.php/kalender/handelsedetaljer/14358/-/staeddag
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14376/-/hemortens-militaer-snabbmatch
+DTEND:20260910T180000Z
+DTSTART:20260910T143000Z
+SUMMARY:Hemortens Militär Snabbmatch
+UID:ee218354fdcc9a7cfc1dd409cace82e7@borasps-kalender
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14376/-/hemortens-militaer-snabbmatch
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14294/-/50m-bokad
 DTEND:20260420T140000Z
 DTSTART:20260420T120000Z
@@ -482,6 +490,14 @@ UID:6f26ccb4a6bd6a41723d2075843cab4b@borasps-kalender
 URL:https://borasps.se/index.php/kalender/handelsedetaljer/8725/-/antikrundan
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14375/-/hemortens-militaer-snabbmatch
+DTEND:20260903T180000Z
+DTSTART:20260903T143000Z
+SUMMARY:Hemortens Militär Snabbmatch
+UID:e08d40aa25678ac693abbaa61b3e980f@borasps-kalender
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14375/-/hemortens-militaer-snabbmatch
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8733/-/antikrundan
 DTEND:20260930T110000Z
 DTSTART:20260930T080000Z
@@ -698,6 +714,14 @@ UID:2f5bfdb9e3a063ca9fcfc8f845851423@borasps-kalender
 URL:https://borasps.se/index.php/kalender/handelsedetaljer/14257/-/hj-krt
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14378/-/hemortens-militaer-snabbmatch
+DTEND:20260919T120000Z
+DTSTART:20260919T080000Z
+SUMMARY:Hemortens Militär Snabbmatch
+UID:f5f31c2df35583861243bcf6d3f484f3@borasps-kalender
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14378/-/hemortens-militaer-snabbmatch
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14334/-/nyboerjarkurs-fok
 DTEND:20260527T180000Z
 DTSTART:20260527T160000Z
@@ -888,6 +912,14 @@ DTSTART:20261104T090000Z
 SUMMARY:Antikrundan
 UID:1ab4800634529a8e7fc6f5686e848eb9@borasps-kalender
 URL:https://borasps.se/index.php/kalender/handelsedetaljer/8738/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14374/-/borassnabben-nat-milsnabb
+DTEND:20260912T150000Z
+DTSTART:20260912T070000Z
+SUMMARY:Borassnabben Nat Milsnabb
+UID:7f40d45b2d4eec28ac17d79cb8ae43f1@borasps-kalender
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14374/-/borassnabben-nat-milsnabb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/9924/-/soendagskytte
@@ -1216,6 +1248,14 @@ DTSTART:20260916T080000Z
 SUMMARY:Antikrundan
 UID:7114aace346a9938b985e5713560a78e@borasps-kalender
 URL:https://borasps.se/index.php/kalender/handelsedetaljer/8731/-/antikrundan
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14377/-/hemortens-militaer-snabbmatch
+DTEND:20260917T180000Z
+DTSTART:20260917T143000Z
+SUMMARY:Hemortens Militär Snabbmatch
+UID:301e706b5695000315e4cf234e882f82@borasps-kalender
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14377/-/hemortens-militaer-snabbmatch
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/9935/-/soendagskytte
@@ -2258,14 +2298,6 @@ UID:d63b1ea8816b7345e0acb99bef4c3e12@borasps-kalender
 URL:https://borasps.se/index.php/kalender/handelsedetaljer/14206/-/sponsorskytte
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8745/-/antikrundan
-DTEND:20261223T120000Z
-DTSTART:20261223T090000Z
-SUMMARY:Antikrundan
-UID:3ffeb13501bf1b5a4618622ce2b87774@borasps-kalender
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/8745/-/antikrundan
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14265/-/knallen-nationell-precision
 DTEND:20260514T160000Z
 DTSTART:20260514T070000Z
@@ -2296,6 +2328,14 @@ DTSTART:20260812T160000Z
 SUMMARY:Nybörjarkurs Fok
 UID:356f800606809cf181dc50d84bfb2a91@borasps-kalender
 URL:https://borasps.se/index.php/kalender/handelsedetaljer/14345/-/nyboerjarkurs-fok
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/8745/-/antikrundan
+DTEND:20261223T120000Z
+DTSTART:20261223T090000Z
+SUMMARY:Antikrundan
+UID:3ffeb13501bf1b5a4618622ce2b87774@borasps-kalender
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/8745/-/antikrundan
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14213/-/50m-bokad
