@@ -186,6 +186,14 @@ UID:ee218354fdcc9a7cfc1dd409cace82e7@borasps-kalender
 URL:https://borasps.se/index.php/kalender/handelsedetaljer/14376/-/hemortens-militaer-snabbmatch
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14379/-/sponsorskytte
+DTEND:20260918T180000Z
+DTSTART:20260918T140000Z
+SUMMARY:Sponsorskytte
+UID:7fee9c21c1e69689c9216b696dea321f@borasps-kalender
+URL:https://borasps.se/index.php/kalender/handelsedetaljer/14379/-/sponsorskytte
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14294/-/50m-bokad
 DTEND:20260420T140000Z
 DTSTART:20260420T120000Z
