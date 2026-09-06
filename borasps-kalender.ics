@@ -2058,14 +2058,6 @@ UID:8e3b3f3ab5d43e400ad3bbd307291995@borasps-kalender
 URL:https://borasps.se/index.php/kalender/handelsedetaljer/8208/-/torsdagsskytte
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14292/-/svartkrut-pistol-gevaer
-DTEND:20260926T130000Z
-DTSTART:20260926T070000Z
-SUMMARY:Svartkrut Pistol Gevär
-UID:3d63ccd09481204c960408e2abd1150f@borasps-kalender
-URL:https://borasps.se/index.php/kalender/handelsedetaljer/14292/-/svartkrut-pistol-gevaer
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Källa: https://borasps.se/index.php/kalender/handelsedetaljer/14258/-/grov-sportpistol
 DTEND:20260423T180000Z
 DTSTART:20260423T143000Z
